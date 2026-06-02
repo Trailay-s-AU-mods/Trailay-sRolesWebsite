@@ -1,0 +1,23 @@
+{Noclip}
+{Noclip has the ability to temporarily pass through walls}
+{Assets/RoleIcons/Noclip.png}
+{Town Of Us Wygon}
+{impred}
+
+Options:
+
+{Noclip cooldown}
+{Change noclip cooldown}
+{Assets/ImpButtons/Noclip-Noclip.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Noclip duration}
+{How long noclip can pass through walls}
+{Assets/ImpButtons/Noclip-Noclip.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Can vent}
+{Allow noclip to use vents}
+{Assets/ImpButtons/Noclip-Noclip.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

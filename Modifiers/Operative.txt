@@ -1,0 +1,38 @@
+{Operative}
+{Use cameras at any time with a limited battery charge}
+{Assets/RoleIcons/Sentry.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Move while using mira doorlog}
+{Whether operative can move while viewing the mira doorlog}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Starting charge}
+{How much battery charge operative starts with}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=20s}
+
+{Battery charged each round}
+{How much battery is recharged at the start of each round}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+
+{Battery charged per task}
+{How much battery is recharged per completed task}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=7.5s}
+
+{Security display cooldown}
+{Change security camera display cooldown}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Max security display duration}
+{How long operative can view security cameras per use}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+

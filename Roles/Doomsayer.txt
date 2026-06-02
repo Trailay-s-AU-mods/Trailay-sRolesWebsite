@@ -1,0 +1,23 @@
+{Doomsayer}
+{Doomsayer wins by guessing a set number of players roles. They can also observe players and will receive a list of potential roles of the observed player in the next meeting}
+{Assets/RoleIcons/Doomsayer.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Observe cooldown}
+{Change observe cooldown}
+{Assets/NeuButtons/Doomsayer-Observe.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Number of guesses needed to win}
+{How many correct role guesses are required to win}
+{Assets/NeuButtons/Doomsayer-Observe.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Doomsayer win condition}
+{Whether winning ends the game or just makes doomsayer win with the winning faction}
+{Assets/NeuButtons/Doomsayer-Observe.png}
+{settingvalue: is true/false=false, min value=Ends Game, max value=Makes him win with winning fraction, defaul value=Ends Game}
+

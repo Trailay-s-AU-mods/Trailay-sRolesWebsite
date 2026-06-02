@@ -1,0 +1,38 @@
+{Drugster}
+{Inject players to give them random effects}
+{Assets/RoleIcons/Drugster.png}
+{TOU Mira Extension}
+{impred}
+
+Options:
+
+{Inject cooldown}
+{Change inject cooldown}
+{Assets/ImpButtons/Drugster-Inject.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Effect activation delay}
+{How long before the injected effect activates}
+{Assets/ImpButtons/Drugster-Inject.png}
+{settingvalue: is true/false=false, min value=1s, max value=20s, defaul value=5s}
+
+{Effect duration}
+{How long the effect lasts}
+{Assets/ImpButtons/Drugster-Inject.png}
+{settingvalue: is true/false=false, min value=10s, max value=120s, defaul value=45s}
+
+{Initial uses}
+{How many inject uses drugster starts with}
+{Assets/ImpButtons/Drugster-Inject.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=4}
+
+{Uses gain per kill}
+{How many inject uses are gained per kill}
+{Assets/ImpButtons/Drugster-Inject.png}
+{settingvalue: is true/false=false, min value=0, max value=5, defaul value=1}
+
+{Positive effects enabled}
+{Whether positive effects can also be applied}
+{Assets/ImpButtons/Drugster-Inject.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

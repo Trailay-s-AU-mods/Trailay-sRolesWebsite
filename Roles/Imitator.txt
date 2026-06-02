@@ -1,0 +1,18 @@
+{Imitator}
+{Imitator can use the roles of dead players. During meetings, the Imitator can select a dead player and will imitate the target's role and abilities in the next round}
+{Assets/RoleIcons/Imitator.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Imitate specific neutral roles as similar crew roles}
+{Whether imitating a neutral role gives a similar crewmate role instead}
+{Assets/CrewButtons/Imitator-ImitateSelect.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Imitate specific impostor roles as similar crew roles}
+{Whether imitating an impostor role gives a similar crewmate role instead}
+{Assets/CrewButtons/Imitator-ImitateSelect.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

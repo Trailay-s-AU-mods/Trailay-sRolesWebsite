@@ -1,0 +1,27 @@
+{Medium}
+{Medium can see ghosts of players who died during the round by using their Mediate ability. The Medium and the ghost will be alerted with a purple flash and see an arrow showing their locations to each other at all times.}
+{Assets/RoleIcons/Medium.png}
+{Town Of Us:Mira}
+{rgb(166, 128, 255)}
+
+Options:
+
+{Mediate cooldown}
+{Cooldown for the mediate ability}
+{Assets/CrewButton/Medium-Mediate.png}
+{settingvalue: is true/false=false, min value=5s, max value=25s, defaul value=10s}
+
+{Reveal appearance of mediate target}
+{TEST}
+{Assets/ImpButton/Invis.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Arrow visibility}
+{Determines who can see the arrow pointing to the second player}
+{Assets/CrewButton/Medium-Mediate.png}
+{settingvalue: is true/false=false, min value=Medium, custom value=Ghost, max value=Medium + Ghost, defaul value=Medium + Ghost}
+
+{Who is revealed}
+{Determines which ghost medium sees}
+{Assets/CrewButton/Medium-Mediate.png}
+{settingvalue: is true/false=false, min value=Oldest dead, custom value=Random dead, max value=Newest dead, defaul value=Newest dead}

@@ -1,0 +1,33 @@
+{Capitan}
+{Captain is a role with special ability to zoom out. Keep an eye on the crew and protect the ship}
+{Assets/RoleIcons/Capitan.png}
+{Launchpad Reloaded}
+{rgb(221, 158, 13)}
+
+Options:
+
+{Zoom cooldown}
+{Set zoom cooldown}
+{Assets/CrewButtons/Capitan-Zoom.png}
+{settingvalue: is true/false=false, min value=20s, max value=40s, defaul value=30s}
+
+{Zoom duration}
+{Set zoom duration}
+{Assets/CrewButtons/Capitan-Zoom.png}
+{settingvalue: is true/false=false, min value=5s, max value=15s, defaul value=10s}
+
+{Zoom distance}
+{Set zoom distance}
+{Assets/CrewButtons/Capitan-Zoom.png}
+{settingvalue: is true/false=false, min value=3, max value=9, defaul value=6}
+
+{Can call meeting}
+{This setting determines if the capitan can call remote meeting}
+{Assets/CrewButtons/Capitan-CallMeeting.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Call cooldown}
+{This setting determines call cooldown}
+{Assets/CrewButtons/Capitan-CallMeeting.png}
+{settingvalue: is true/false=false, min value=10s, max value=25s, defaul value=15s}
+

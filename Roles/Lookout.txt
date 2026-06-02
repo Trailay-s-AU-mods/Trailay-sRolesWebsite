@@ -1,0 +1,22 @@
+{Lookout}
+{The Lookout can watch other players during rounds, and will discover which roles interacted with the watched}
+{Assets/RoleIcons/Investigator.png}
+{Town Of Us:Mira}
+{rgb(0, 179, 179)}
+
+Options:
+
+{Watch cooldown}
+{Cooldown for the watch ability}
+{Assets/CrewButton/Lookout-Watch.png}
+{settingvalue: is true/false=false, min value=3, max value=5, defaul value=4}
+
+{Max players that can be watched}
+{Max players that can be watched at the same time}
+{Assets/RoleIcons/Lookout.png}
+{settingvalue: is true/false=false, min value=3, max value=6, defaul value=5}
+
+{Lookout watches reset after each round}
+{Determines if lookouts watches reset after each round}
+{Assets/Footprint.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}

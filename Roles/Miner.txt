@@ -1,0 +1,23 @@
+{Miner}
+{Miner can place additional vents around the map which will connect together as one system. Miner vents will not connect to base-game vents}
+{Assets/RoleIcons/Miner.png}
+{YanplaRoles & Town Of Us Mira}
+{impred}
+
+Options:
+
+{Mine cooldown}
+{Change mine cooldown}
+{Assets/ImpButtons/Miner-Mine.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Max vents}
+{Maximum number of vents miner can place}
+{Assets/ImpButtons/Miner-Mine.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Miner can kill with teammate}
+{Allow miner to perform kills with an impostor teammate}
+{Assets/ImpButtons/Miner-Mine.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

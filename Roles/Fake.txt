@@ -1,0 +1,13 @@
+{Fake}
+{Crewmate that is shown to impostor as their teammate (spy or fake). You can vent to blend in}
+{Assets/RoleIcons/Fake.png}
+{Challenger}
+{rgb(255, 25, 25)}
+
+Options:
+
+{Can move betwen vents}
+{With this setting turned on you can move inside vents}
+{Assets/CrewButtons/Spy-Vent.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

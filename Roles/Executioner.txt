@@ -1,0 +1,18 @@
+{Executioner}
+{Executioner wins by getting their target (signified by a black nick) ejected in a meeting}
+{Assets/RoleIcons/Executioner.png}
+{YanplaRoles & Launchpad Reloaded}
+{neutralwhite}
+
+Options:
+
+{Can call meeting}
+{Whether executioner can call emergency meetings}
+{Assets/RoleIcons/Executioner.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{On target's death, executioner becomes}
+{What role executioner changes to if their target dies before being ejected}
+{Assets/RoleIcons/Executioner.png}
+{settingvalue: is true/false=false, min value=Jester, max value=Survivor, defaul value=Jester}
+

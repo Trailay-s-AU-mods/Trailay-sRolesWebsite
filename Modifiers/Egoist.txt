@@ -1,0 +1,33 @@
+{Egoist}
+{Egoist is a crewmate or impostor modifier, that makes you win alone when your original team should win}
+{Assets/RoleIcons/Jester.png}
+{Town Of Host}
+{crewwhite}
+
+Options:
+
+{Egoist must stay alive to win}
+{Whether egoist must survive to claim their solo victory}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Egoist speeds up the game}
+{Whether egoist's presence accelerates game speed and cooldowns over time}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Rounds required for speed/cooldown changes}
+{How many rounds must pass before speed and cooldown changes begin}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=1}
+
+{Speed addition}
+{How much speed is added per round}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=false, min value=0.025x, max value=0.5x, defaul value=0.100x}
+
+{Cooldown reduction}
+{How many seconds are removed from cooldowns per round}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=5s, defaul value=1.5s}
+

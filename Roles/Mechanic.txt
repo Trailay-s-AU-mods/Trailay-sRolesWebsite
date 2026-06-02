@@ -1,0 +1,38 @@
+{Mechanic}
+{Mechanic can use the vent systems, fix active sabotages remotely and open all doors in the same building/room}
+{Assets/RoleIcons/Mechanic.png}
+{Endless Host Roles & Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Vent uses}
+{How many times mechanic can use vents per game}
+{Assets/CrewButtons/Mechanic-Vent.png}
+{settingvalue: is true/false=false, min value=1, max value=30, defaul value=10}
+
+{Vent cooldown}
+{Change vent cooldown}
+{Assets/CrewButtons/Mechanic-Vent.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Max time in vent}
+{How long mechanic can stay inside a vent}
+{Assets/CrewButtons/Mechanic-Vent.png}
+{settingvalue: is true/false=false, min value=3s, max value=30s, defaul value=10s}
+
+{Fix uses per game}
+{How many times mechanic can remotely fix sabotages}
+{Assets/CrewButtons/Mechanic-Fix.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Fix delay}
+{How long it takes to remotely fix a sabotage}
+{Assets/CrewButtons/Mechanic-Fix.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=5s, defaul value=1s}
+
+{Can open all doors in the same room at once}
+{Whether mechanic can open all doors in a room simultaneously}
+{Assets/CrewButtons/Mechanic-Fix.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

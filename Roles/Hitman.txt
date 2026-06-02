@@ -1,0 +1,28 @@
+{Hitman}
+{Hitman is an Impostor role that allows you to slow down time and kill Crewmates}
+{Assets/RoleIcons/Hitman.png}
+{Launchpad Reloaded}
+{impred}
+
+Options:
+
+{Deadlock cooldown}
+{Change deadlock cooldown}
+{Assets/ImpButtons/Hitman-Deadlock.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=40s}
+
+{Deadlock uses}
+{How many times hitman can use deadlock per game}
+{Assets/ImpButtons/Hitman-Deadlock.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Deadlock mark limit}
+{Maximum number of players marked during deadlock}
+{Assets/ImpButtons/Hitman-Deadlock.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Deadlock duration}
+{How long the deadlock slow effect lasts}
+{Assets/ImpButtons/Hitman-Deadlock.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=20s}
+

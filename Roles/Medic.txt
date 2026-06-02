@@ -1,0 +1,18 @@
+{Medic}
+{Medic can give a Shield to a player of their choice, protecting the player from being killed}
+{Assets/RoleIcons/Medic.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Show shielded player}
+{Who can see the shielded player indicator}
+{Assets/CrewButtons/Medic-Shield.png}
+{settingvalue: is true/false=false, min value=Medic only, max value=Everyone, defaul value=Shielded + medic}
+
+{Who gets murder attempt indicator}
+{Who is notified when the shielded player is attacked}
+{Assets/CrewButtons/Medic-Shield.png}
+{settingvalue: is true/false=false, min value=Medic, max value=Everyone, defaul value=Medic}
+

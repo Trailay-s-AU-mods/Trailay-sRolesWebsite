@@ -1,0 +1,6 @@
+{Double Agent}
+{Double Agent completes all tasks, then gains the ability to sabotage to win the game}
+{Assets/RoleIcons/DoubleAgent.png}
+{NewMod}
+{crewwhite}
+

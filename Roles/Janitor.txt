@@ -1,0 +1,33 @@
+{Janitor}
+{Janitor can clean dead bodies, making them disappear to clear evidence}
+{Assets/RoleIcons/Janitor.png}
+{YanplaRoles & Town Of Us Mira}
+{impred}
+
+Options:
+
+{Clean cooldown}
+{Change clean cooldown}
+{Assets/ImpButtons/Janitor-Clean.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=40s}
+
+{Clean delay}
+{How long before the body disappears after cleaning}
+{Assets/ImpButtons/Janitor-Clean.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=2.5s}
+
+{Kill & clean cooldowns are linked}
+{Whether the kill and clean share the same cooldown}
+{Assets/ImpButtons/Janitor-Clean.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Janitor can vent}
+{Allow janitor to use vents}
+{Assets/ImpButtons/Janitor-Clean.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Janitor can kill with teammate}
+{Allow janitor to perform kills with an impostor teammate}
+{Assets/ImpButtons/Janitor-Clean.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

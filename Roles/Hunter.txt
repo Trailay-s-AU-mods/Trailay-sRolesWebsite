@@ -1,0 +1,38 @@
+{Hunter}
+{The Hunter can Stalk players and will be alerted by a brief green flash if the stalked player uses an ability of any kind. The Hunter then has the option to kill the player at any point during the game, without consequence if they kill a fellow crewmate}
+{Assets/RoleIcons/Hunter.png}
+{Town Of Us}
+{crewwhite}
+
+Options:
+
+{Hunter kill cooldown}
+{Change hunter kill cooldown}
+{Assets/CrewButtons/Hunter-Kill.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Hunter stalk cooldown}
+{Change hunter stalk cooldown}
+{Assets/CrewButtons/Hunter-Stalk.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+
+{Hunter stalk duration}
+{How long the stalk lasts}
+{Assets/CrewButtons/Hunter-Stalk.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=25s}
+
+{Max stalk uses}
+{Maximum number of times hunter can stalk}
+{Assets/CrewButtons/Hunter-Stalk.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Get more uses from completing tasks}
+{Whether completing tasks grants additional stalk uses}
+{Assets/CrewButtons/Hunter-Stalk.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Hunter kills last voter if voted out}
+{Whether hunter kills the last player who voted for them if ejected}
+{Assets/CrewButtons/Hunter-Kill.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

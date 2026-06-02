@@ -1,0 +1,13 @@
+{Amnesiac}
+{Amnesiac must remember who they are by finding a dead body and taking the role of the dead player. If the dead body's role is a unique role, they will remember the base faction's role instead}
+{Assets/RoleIcons/Amnesiac.png}
+{YanplaRoles}
+{neutralwhite}
+
+Options:
+
+{Arrow appear delay}
+{How long before arrows to dead bodies appear}
+{Assets/RoleIcons/Amnesiac.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+

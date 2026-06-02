@@ -1,0 +1,28 @@
+{Beacon}
+{Send out a map-wide pulse revealing all players on the minimap}
+{Assets/RoleIcons/Beacon.png}
+{NewMod}
+{rgb(126, 87, 194)}
+
+Options:
+
+{Tasks per charge}
+{Tasks you need to finish to gain one charge}
+{Assets/AbilityCounter.png}
+{settingvalue: is true/false=false, min value=1, max value=3, defaul value=2}
+
+{Max charges}
+{Maximum charges you can hold at one time}
+{Assets/Player.png}
+{settingvalue: is true/false=false, min value=2, max value=5, defaul value=3}
+
+{Pulse cooldown}
+{Cooldown for pulse ability}
+{Assets/CrewButton/Beacon-Send.png}
+{settingvalue: is true/false=false, min value=10s, max value=30s, defaul value=20s}
+
+{Pulse duration}
+{Duration of pulse ability}
+{Assets/CrewButton/Beacon-Send.png}
+{settingvalue: is true/false=false, min value=5s, max value=15s, defaul value=10s}
+

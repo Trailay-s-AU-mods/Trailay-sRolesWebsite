@@ -1,0 +1,18 @@
+{Chameleon}
+{As the Chameleon, you can turn invisible to find the impostors}
+{Assets/RoleIcons/Chameleon.png}
+{Town Of Us:Mira}
+{rgb(82, 179, 153)}
+
+Options:
+
+{Swoop cooldown}
+{Change invis cooldown}
+{Assets/CrewButtons/Chameleon-Swoop.png}
+{settingvalue: is true/false=false, min value=20s, max value=40s, defaul value=30s}
+
+{Swoop duration}
+{Change invis duration}
+{Assets/CrewButtons/Chameleon-Unswoop.png}
+{settingvalue: is true/false=false, min value=5s, max value=15s, defaul value=10s}
+

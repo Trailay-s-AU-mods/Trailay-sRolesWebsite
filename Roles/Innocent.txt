@@ -1,0 +1,18 @@
+{Innocent}
+{Use taunt on another player to make them kill you immediately. If that player is voted out next meeting you win}
+{Assets/RoleIcons/Innocent.png}
+{Divani Mods}
+{neutralwhite}
+
+Options:
+
+{Taunt cooldown}
+{Change taunt cooldown}
+{Assets/NeuButtons/Innocent-Taunt.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Can taunt first round}
+{Whether innocent can use taunt during the first round}
+{Assets/NeuButtons/Innocent-Taunt.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

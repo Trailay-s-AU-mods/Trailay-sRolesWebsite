@@ -1,0 +1,33 @@
+{Blackmailer}
+{Blackmailer can stop a player from speaking in the next meeting by blackmailing them}
+{Assets/RoleIcons/Blackmailer.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Blackmail cooldown}
+{Change blackmail cooldown}
+{Assets/ImpButtons/Blackmailer-Blackmail.png}
+{settingvalue: is true/false=false, min value=10s, max value=40s, defaul value=20s}
+
+{Max players alive where blackmailed can vote}
+{Maximum number of alive players for blackmailed player to still be able to vote}
+{Assets/ImpButtons/Blackmailer-Blackmail.png}
+{settingvalue: is true/false=false, min value=3, max value=15, defaul value=10}
+
+{Blackmail same person twice in a row}
+{Allow blackmailer to target the same player consecutively}
+{Assets/ImpButtons/Blackmailer-Blackmail.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Only target sees blackmail}
+{Whether only the blackmailed player sees the notification}
+{Assets/ImpButtons/Blackmailer-Blackmail.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Blackmail can kill with teammate}
+{Allow blackmailer to perform kills with an impostor teammate}
+{Assets/ImpButtons/Blackmailer-Blackmail.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

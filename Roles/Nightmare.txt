@@ -1,0 +1,33 @@
+{Nightmare}
+{Nightmare is a Neutral Killer focused on disabling players. It has two abilities: Blind and Paralyze. Using Blind will reduce vision range of others to that of a Crewmate during a lights sabotage. Paralyze renders a player unable to move or interact for a short period}
+{Assets/RoleIcons/Nightmare.png}
+{Stellar Roles}
+{neutralwhite}
+
+Options:
+
+{Paralyze cooldown}
+{Change paralyze cooldown}
+{Assets/NeuButtons/Nightmare-Paralyze.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Paralyze duration}
+{How long the player is paralyzed}
+{Assets/NeuButtons/Nightmare-Paralyze.png}
+{settingvalue: is true/false=false, min value=3s, max value=15s, defaul value=7.5s}
+
+{Blind cooldown}
+{Change blind cooldown}
+{Assets/NeuButtons/Nightmare-Blind.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Blind duration}
+{How long the vision reduction lasts}
+{Assets/NeuButtons/Nightmare-Blind.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Blind radius}
+{How large the blind area is}
+{Assets/NeuButtons/Nightmare-Blind.png}
+{settingvalue: is true/false=false, min value=0.25x, max value=3.0x, defaul value=1x}
+

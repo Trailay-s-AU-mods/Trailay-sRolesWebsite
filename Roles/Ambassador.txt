@@ -1,0 +1,33 @@
+{Ambassador}
+{Ambassador can retrain Impostors into other Impostor roles of the same caliber}
+{Assets/RoleIcons/Ambassador.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Max remains available}
+{How many times ambassador can retrain impostors}
+{Assets/ImpButtons/Ambassador-Retrain.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Retrain requires confirmation}
+{Whether retraining requires the impostor to confirm}
+{Assets/ImpButtons/Ambassador-Retrain.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Kills needed to retrain}
+{How many kills ambassador or teammate must have to retrain}
+{Assets/ImpButtons/Ambassador-Retrain.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Round in which retraining is possible}
+{From which round ambassador can start retraining}
+{Assets/ImpButtons/Ambassador-Retrain.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Rounds needed to retrain again}
+{How many rounds must pass before retraining again}
+{Assets/ImpButtons/Ambassador-Retrain.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+

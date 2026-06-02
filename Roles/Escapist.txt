@@ -1,0 +1,18 @@
+{Escapist}
+{Escapist is able to mark a location on the map and then recall (teleport) to that location from anywhere}
+{Assets/RoleIcons/Escapist.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Recall cooldown}
+{Change recall cooldown}
+{Assets/ImpButtons/Escapist-Recall.png}
+{settingvalue: is true/false=false, min value=10s, max value=40s, defaul value=25s}
+
+{Escapist can vent}
+{Allow escapist to use vents}
+{Assets/ImpButtons/Escapist-Recall.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

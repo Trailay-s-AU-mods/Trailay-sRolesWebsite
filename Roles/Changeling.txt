@@ -1,0 +1,13 @@
+{Changeling}
+{Changeling is a choose-your-fighter style Impostor role who behaves exactly like a vanilla impostor until they use their one-time use ability. This ability allows them to change into an Impostor role of their choosing. He cannot choose the role of their teammate}
+{Assets/RoleIcons/Changeling.png}
+{Stellar Roles}
+{impred}
+
+Options:
+
+{Change ability}
+{Trigger the one-time ability to transform into a chosen impostor role}
+{Assets/ImpButtons/Changeling-Change.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=ON}
+

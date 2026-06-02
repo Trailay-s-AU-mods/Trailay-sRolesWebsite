@@ -1,0 +1,13 @@
+{Electroman}
+{Electrocute crewmates}
+{Assets/RoleIcons/Electroman.png}
+{Reach For Stars}
+{impred}
+
+Options:
+
+{Electric shock distance}
+{How far electroman can shock players}
+{Assets/ImpButtons/Electroman-Shock.png}
+{settingvalue: is true/false=false, min value=0.5x, max value=3.0x, defaul value=1.5x}
+

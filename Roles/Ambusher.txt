@@ -1,0 +1,28 @@
+{Ambusher}
+{Ambusher can pursue a player, getting an arrow to their location. When the pursued player is next to another player, the Ambusher can ambush to force their pursued target to kill the nearby player. If successful, they will drag the body into the shadows, teleporting it back to the Ambusher}
+{Assets/RoleIcons/Ambusher.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Ambush cooldown}
+{Change ambush cooldown}
+{Assets/ImpButtons/Ambusher-Ambush.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Pursue arrow update interval}
+{How often the arrow to the pursued player updates}
+{Assets/ImpButtons/Ambusher-Ambush.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=2.5s}
+
+{Stop pursuing player on ambush}
+{Stop pursuing the player after a successful ambush}
+{Assets/ImpButtons/Ambusher-Ambush.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Ambusher can vent}
+{Allow ambusher to use vents}
+{Assets/ImpButtons/Ambusher-Ambush.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

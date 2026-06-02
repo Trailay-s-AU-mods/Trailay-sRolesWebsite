@@ -1,0 +1,23 @@
+{Magician}
+{Magician can charge up mana to wipe out the crew quickly with a multi-kill attack}
+{Assets/RoleIcons/Magician.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Time it takes to fully charge}
+{How long magician must charge to reach full power}
+{Assets/ImpButtons/Magician-Charge.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=25s}
+
+{Time multiplier added per kill for next charge}
+{Multiplier added to charge time after each kill}
+{Assets/ImpButtons/Magician-Charge.png}
+{settingvalue: is true/false=false, min value=0.0x, max value=1.0x, defaul value=0.1x}
+
+{Time it takes to use full charge}
+{How long it takes to release the full charge attack}
+{Assets/ImpButtons/Magician-Charge.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=5s, defaul value=1s}
+

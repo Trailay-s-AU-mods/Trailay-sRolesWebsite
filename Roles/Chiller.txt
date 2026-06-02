@@ -1,0 +1,28 @@
+{Chiller}
+{Freeze bodies to stop the crewmates from reporting them!}
+{Assets/RoleIcons/Chiller.png}
+{Reach For Stars}
+{impred}
+
+Options:
+
+{Freeze cooldown}
+{Change freeze cooldown}
+{Assets/ImpButtons/Chiller-Freeze.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Freeze melts}
+{Whether frozen bodies will eventually melt and become reportable again}
+{Assets/ImpButtons/Chiller-Freeze.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Freeze duration}
+{How long before the frozen body melts}
+{Assets/ImpButtons/Chiller-Freeze.png}
+{settingvalue: is true/false=false, min value=10s, max value=120s, defaul value=30s}
+
+{Can freeze same body twice}
+{Allow chiller to freeze the same body more than once}
+{Assets/ImpButtons/Chiller-Freeze.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

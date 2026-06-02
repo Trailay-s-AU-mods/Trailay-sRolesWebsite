@@ -1,0 +1,18 @@
+{Frosty}
+{After you die, your killer will be slowed down}
+{Assets/RoleIcons/Icenberg.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Chill duration}
+{How long the killer is slowed after killing frosty}
+{Assets/RoleIcons/Icenberg.png}
+{settingvalue: is true/false=false, min value=3s, max value=30s, defaul value=10s}
+
+{Chill start speed}
+{How fast the killer moves during the chill effect}
+{Assets/RoleIcons/Icenberg.png}
+{settingvalue: is true/false=false, min value=0.1x, max value=0.9x, defaul value=0.8x}
+

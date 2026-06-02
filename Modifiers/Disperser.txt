@@ -1,0 +1,6 @@
+{Disperser}
+{Disperse everyone on the map to a random vent}
+{Assets/RoleIcons/Miner.png}
+{Town Of Us Mira}
+{impred}
+

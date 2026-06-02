@@ -1,0 +1,28 @@
+{Mirage}
+{Prime a decoy, then place it. If anyone interacts with it, it vanishes and you are notified}
+{Assets/RoleIcons/Mirage.png}
+{TOU Mira Extension}
+{crewwhite}
+
+Options:
+
+{Initial uses}
+{How many decoys mirage starts with}
+{Assets/CrewButtons/Mirage-PrimeDecoy.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Decoy cooldown}
+{Change decoy placement cooldown}
+{Assets/CrewButtons/Mirage-PrimeDecoy.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Auto destroy cooldown}
+{How long before an uninteracted decoy auto-destroys}
+{Assets/CrewButtons/Mirage-PrimeDecoy.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=15s}
+
+{Arrow time}
+{How long the notification arrow lasts after a decoy is triggered}
+{Assets/CrewButtons/Mirage-PrimeDecoy.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+

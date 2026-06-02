@@ -1,0 +1,43 @@
+{Chef}
+{Feed the crewmates with cooked corpses. Once your quota is fed, leave in victory!}
+{Assets/RoleIcons/Chef.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Cook cooldown}
+{Change cook cooldown}
+{Assets/NeuButtons/Chef-Cook.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Serve cooldown}
+{Change serve cooldown}
+{Assets/NeuButtons/Chef-ServeEmpty.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Reset cook & serve cooldown together}
+{Whether cook and serve share the same cooldown}
+{Assets/NeuButtons/Chef-Cook.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Amount of servings needed}
+{How many servings chef must complete to win}
+{Assets/NeuButtons/Chef-ServeEmpty.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Show arrows pointing to dead bodies}
+{Whether chef has arrows pointing to dead bodies}
+{Assets/NeuButtons/Chef-Cook.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Dead body arrow delay}
+{How long before arrows to dead bodies appear}
+{Assets/NeuButtons/Chef-Cook.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=1s}
+
+{Dead body arrow duration}
+{How long arrows to dead bodies remain visible}
+{Assets/NeuButtons/Chef-Cook.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+

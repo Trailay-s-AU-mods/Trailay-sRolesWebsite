@@ -1,0 +1,33 @@
+{Jester}
+{Jester wins by getting themselves ejected in a meeting. If you are killed, you lose}
+{Assets/RoleIcons/Jester.png}
+{YanplaRoles & NewMod}
+{neutralwhite}
+
+Options:
+
+{Can vent}
+{Allow jester to use vents}
+{Assets/NeuButtons/Jester-Vent.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can call meeting}
+{Whether jester can call emergency meetings}
+{Assets/NeuButtons/Jester-Bait.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Has impostor vision}
+{Whether jester has increased impostor vision}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Use Egoist instead}
+{Replace jester win condition with egoist mechanics}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Minimum votes on Egoist to trigger win}
+{Minimum number of votes required for egoist to trigger win condition}
+{Assets/RoleIcons/Jester.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+

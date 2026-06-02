@@ -1,0 +1,18 @@
+{Eraser}
+{Eraser is an Impostor that can erase the role of every player. The targeted players will lose their role after the meeting right before a player is exiled. After every erase, the cooldown increases by 10 seconds}
+{Assets/RoleIcons/Eraser.png}
+{The Other Roles}
+{impred}
+
+Options:
+
+{Eraser cooldown}
+{Change eraser cooldown}
+{Assets/ImpButtons/Eraser-Erase.png}
+{settingvalue: is true/false=false, min value=10s, max value=40s, defaul value=20s}
+
+{Eraser can erase anyone}
+{Allow eraser to erase any player including impostors}
+{Assets/ImpButtons/Eraser-Erase.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

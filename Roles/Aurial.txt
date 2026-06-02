@@ -1,0 +1,23 @@
+{Aurial}
+{Aurial can sense when someone nearby uses an ability of any kind, and will see an arrow pointing towards the location where the ability was used. If the ability is used within the Aurial's aura (range), the arrow will match the colour of the player, if the ability is used further away, the Aurial will see a white arrow.}
+{Assets/RoleIcons/Aurial.png}
+{Town Of Us:Mira}
+{rgb(179, 77, 153)}
+
+Options:
+
+{Radiate color range}
+{You can sense when someone nearby uses an ability of any kind, and will see an arrow pointing towards the location where the ability was used}
+{Assets/CrewButton/Arrow.png}
+{settingvalue: is true/false=false, min value=0.1, max value=1.0, defaul value=0.5}
+
+{Radiate max range}
+{If the ability is used within the Aurial's aura (range), the arrow will match the colour of the player}
+{Assets/CrewButton/Arrow.png}
+{settingvalue: is true/false=false, min value=1.0, max value=1.5, defaul value=2.5}
+
+{Sense duration}
+{Duration of the arrow pointing towards the ability use location}
+{Assets/CrewButton/Arrow.png}
+{settingvalue: is true/false=false, min value=3s, max value=10s, defaul value=6s}
+

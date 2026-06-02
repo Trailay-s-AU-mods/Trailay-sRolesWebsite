@@ -1,0 +1,13 @@
+{Bodyguard}
+{Guard player and protect them from death by sacrificing your life}
+{Assets/RoleIcons/Bodyguard.png}
+{idk}
+{crewwhite}
+
+Options:
+
+{Guard cooldown}
+{Change guard cooldown}
+{Assets/CrewButtons/Bodyguard-Guard.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+

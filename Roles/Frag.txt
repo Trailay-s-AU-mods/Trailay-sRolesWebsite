@@ -1,0 +1,18 @@
+{Frag}
+{Give a time bomb to a player. After random delay time will start ticking. The holder can pass the bomb, but not back to the previous holder until it moves again. Win by outlasting all other killers}
+{Assets/RoleIcons/Frag.png}
+{Divani Mods}
+{neutralwhite}
+
+Options:
+
+{Give bomb cooldown}
+{Change give bomb cooldown}
+{Assets/NeuButtons/Frag-Give.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=35s}
+
+{Bomb timer}
+{How long the bomb ticks before exploding}
+{Assets/NeuButtons/Frag-Pass.png}
+{settingvalue: is true/false=false, min value=5s, max value=60s, defaul value=20s}
+

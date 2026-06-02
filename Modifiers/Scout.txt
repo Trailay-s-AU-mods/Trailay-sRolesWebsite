@@ -1,0 +1,6 @@
+{Scout}
+{You can see twice as far as a regular crewmate, but you can't see anything during lights sabotage}
+{Assets/RoleIcons/Lookout.png}
+{Town Of Us Mira}
+{crewwhite}
+

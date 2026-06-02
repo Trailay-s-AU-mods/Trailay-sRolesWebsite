@@ -1,0 +1,32 @@
+{Investigator}
+{The Investigator is able to see the footprints of other players during each round}
+{Assets/RoleIcons/Investigator.png}
+{Town Of Us:Mira}
+{rgb(0, 179, 179)}
+
+Options:
+
+{Footprint size}
+{Size of the footprints}
+{Assets/Footprint.png}
+{settingvalue: is true/false=false, min value=3, max value=5, defaul value=4}
+
+{Footprint interval}
+{TEST}
+{Assets/MouseClick.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=2s, defaul value=1s}
+
+{Footprint duration}
+{Duration of the footprints}
+{Assets/Footprint.png}
+{settingvalue: is true/false=true, min value=5s, max value=15s, defaul value=10s}
+
+{Anonymous footprints}
+{Changes all footprints grey}
+{Assets/MouseClick.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Footprint vent visible}
+{TEST}
+{Assets/MouseClick.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}

@@ -1,0 +1,6 @@
+{Drunk}
+{Your movement keys are randomized}
+{Assets/RoleIcons/LazyGuy.png}
+{---}
+{crewwhite}
+

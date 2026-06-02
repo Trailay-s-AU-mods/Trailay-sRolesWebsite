@@ -1,0 +1,18 @@
+{Mayor}
+{Mayor can store his votes, when he reveals he can use all his votes and he can not be guessed. When mayor retires he no longer can use his votes}
+{Assets/RoleIcons/Mayor.png}
+{Town Of Trailay}
+{crewwhite}
+
+Options:
+
+{See vote colors after finishing tasks}
+{Whether mayor can see who voted for who after completing all tasks}
+{Assets/CrewButtons/Mayor-Reveal.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can retire}
+{Whether mayor has the option to retire and lose their stored votes}
+{Assets/CrewButtons/Mayor-Reveal.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

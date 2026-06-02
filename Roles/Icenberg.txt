@@ -1,0 +1,33 @@
+{Icenberg}
+{Icenberg wins by being the last killer alive, he can freeze players, preventing them from moving}
+{Assets/RoleIcons/Icenberg.png}
+{Town Of Us Wygon}
+{neutralwhite}
+
+Options:
+
+{Kill cooldown}
+{Change kill cooldown}
+{Assets/RoleIcons/Icenberg.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Freeze cooldown}
+{Change freeze cooldown}
+{Assets/NeuButtons/Icenberg-Freeze.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Freeze duration}
+{How long frozen players cannot move}
+{Assets/NeuButtons/Icenberg-Freeze.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=7.5s}
+
+{Has impostor vision}
+{Whether icenberg has increased impostor vision}
+{Assets/RoleIcons/Icenberg.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can vent}
+{Allow icenberg to use vents}
+{Assets/RoleIcons/Icenberg.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,23 @@
+{Killing Machine}
+{Killing Machine has a very short kill cooldown, but cannot vent, has lower vision, cannot sabotage, cannot report, and cannot call emergency meetings. The Killing Machine also has the same vision as Crewmates}
+{Assets/RoleIcons/KillingMachine.png}
+{Endless Host Roles}
+{impred}
+
+Options:
+
+{Kill cooldown}
+{Change kill cooldown}
+{Assets/ImpButtons/KillingMachine-Kill.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Freeze duration}
+{How long killing machine is frozen after killing}
+{Assets/ImpButtons/KillingMachine-Kill.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Bypass shields when killing}
+{Allow killing machine to bypass player shields}
+{Assets/ImpButtons/KillingMachine-Kill.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

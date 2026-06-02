@@ -1,0 +1,6 @@
+{Radar}
+{You have an arrow pointing towards the closest player}
+{Assets/RoleIcons/Sonar.png}
+{Town Of Us Mira}
+{crewwhite}
+

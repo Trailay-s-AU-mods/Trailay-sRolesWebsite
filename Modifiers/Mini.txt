@@ -1,0 +1,13 @@
+{Mini}
+{You are smaller and faster than average player}
+{Assets/RoleIcons/SuperStar.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Mini speed}
+{How fast mini moves compared to regular players}
+{Assets/RoleIcons/SuperStar.png}
+{settingvalue: is true/false=false, min value=1.1x, max value=2.5x, defaul value=1.35x}
+

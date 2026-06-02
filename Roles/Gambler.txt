@@ -1,0 +1,18 @@
+{Gambler}
+{The Gambler is a Crewmate role with the ability to gamble on player's roles. If you gamble incorrectly you will die!}
+{Assets/RoleIcons/Gambler.png}
+{Launchpad Reloaded}
+{crewwhite}
+
+Options:
+
+{Gamble cooldown}
+{Change gamble cooldown}
+{Assets/CrewButtons/Gambler-Gamble.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=25s}
+
+{Gamble uses}
+{How many times gambler can gamble per game}
+{Assets/CrewButtons/Gambler-Gamble.png}
+{settingvalue: is true/false=false, min value=1, max value=∞, defaul value=∞}
+

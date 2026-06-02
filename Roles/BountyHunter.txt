@@ -1,0 +1,28 @@
+{Bounty Hunter}
+{Kill your targets to win!}
+{Assets/RoleIcons/BountyHunter.png}
+{Reach For Stars}
+{neutralwhite}
+
+Options:
+
+{Kill cooldown}
+{Change kill cooldown}
+{Assets/RoleIcons/BountyHunter.png}
+{settingvalue: is true/false=false, min value=30s, max value=120s, defaul value=60s}
+
+{Crewmates can be targets}
+{Whether crewmates can be assigned as bounty targets}
+{Assets/RoleIcons/BountyHunter.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutrals can be targets}
+{Whether neutral roles can be assigned as bounty targets}
+{Assets/RoleIcons/BountyHunter.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Impostors can be targets}
+{Whether impostors can be assigned as bounty targets}
+{Assets/RoleIcons/BountyHunter.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

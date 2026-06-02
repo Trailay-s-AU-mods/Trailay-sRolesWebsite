@@ -1,0 +1,12 @@
+{Mystic}
+{The Mystic is alerted whenever someone dies, seeing a blue flash and a brief arrow pointing in the direction of the death}
+{Assets/RoleIcons/Mystic.png}
+{Town Of Us:Mira}
+{rgb(77, 153, 230)}
+
+Options:
+
+{Dead body arrow duration}
+{Determines how long does the arrow pointing towards the body lasts}
+{Assets/Arrow.png}
+{settingvalue: is true/false=false, min value=0.1s, max value=1s, defaul value=0.2s}

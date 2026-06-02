@@ -1,0 +1,23 @@
+{Liar}
+{If all Impostors die, one Crewmate may become the Liar after a meeting, depending on set conditions. Liar sets out to win the game for the fallen Impostors and kill off the Crew. Only Crewmates can become the Liar, with the exception of the Mayor}
+{Assets/RoleIcons/Liar.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Minimum people alive when Liar can spawn}
+{Minimum number of players alive for the Liar to be able to spawn}
+{Assets/ImpButtons/Liar-Spawn.png}
+{settingvalue: is true/false=false, min value=3, max value=15, defaul value=5}
+
+{Liar wont spawn if Neutral Killing is alive}
+{Prevent liar from spawning if a neutral killing role is still alive}
+{Assets/ImpButtons/Liar-Spawn.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Disable existing impostor roles}
+{Whether to disable existing impostor roles when liar spawns}
+{Assets/ImpButtons/Liar-Spawn.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

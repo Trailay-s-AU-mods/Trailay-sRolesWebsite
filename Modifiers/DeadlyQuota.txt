@@ -1,0 +1,33 @@
+{Deadly Quota}
+{You lose if you don't complete your quota. To complete your quota, you need to kill a set number of people chosen at the start of the game}
+{Assets/RoleIcons/KillingMachine.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Minimum quota}
+{Minimum number of kills required for the quota}
+{Assets/RoleIcons/KillingMachine.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Maximum quota}
+{Maximum number of kills required for the quota}
+{Assets/RoleIcons/KillingMachine.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=4}
+
+{Meeting kills count towards quota}
+{Whether kills during meetings count toward the quota}
+{Assets/RoleIcons/KillingMachine.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Temporary shield until quota is met}
+{Whether deadly quota has a shield until their quota is achieved}
+{Assets/RoleIcons/KillingMachine.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Remove quota upon death}
+{Whether the quota penalty is removed if deadly quota dies}
+{Assets/RoleIcons/KillingMachine.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

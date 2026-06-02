@@ -1,0 +1,18 @@
+{Necromancer}
+{Necromancer can revive dead players for the Impostor team, adding a powerful strategic element. You can't revive your own kills}
+{Assets/RoleIcons/Necromancer.png}
+{NewMod}
+{impred}
+
+Options:
+
+{Revive cooldown}
+{Change revive cooldown}
+{Assets/ImpButtons/Necromancer-Revive.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=25s}
+
+{Revive uses}
+{How many times necromancer can revive players per game}
+{Assets/ImpButtons/Necromancer-Revive.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+

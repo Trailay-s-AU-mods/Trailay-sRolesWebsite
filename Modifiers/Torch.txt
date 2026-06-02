@@ -1,0 +1,6 @@
+{Torch}
+{Lights sabotage does not affect you}
+{Assets/RoleIcons/Mystic.png}
+{Town Of Us Mira}
+{crewwhite}
+

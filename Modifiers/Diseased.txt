@@ -1,0 +1,13 @@
+{Diseased}
+{Your murderer's kill cooldown is multiplied by a factor after killing you}
+{Assets/RoleIcons/Plaguebearer.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Diseased kill multiplier}
+{How much the killer's cooldown is multiplied after killing diseased}
+{Assets/RoleIcons/Plaguebearer.png}
+{settingvalue: is true/false=false, min value=1.5x, max value=10.0x, defaul value=3.0x}
+

@@ -1,0 +1,6 @@
+{Bait}
+{After you die, your killer will self-report your body}
+{Assets/RoleIcons/Altruist.png}
+{Town Of Us Mira}
+{crewwhite}
+

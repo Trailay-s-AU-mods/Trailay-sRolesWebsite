@@ -1,0 +1,28 @@
+{Aegis}
+{Deploy a protective zone that reacts to hostile abilities}
+{Assets/RoleIcons/Ageis.png}
+{NewMod}
+{crewwhite}
+
+Options:
+
+{Barrier cooldown}
+{Change barrier deployment cooldown}
+{Assets/CrewButtons/Ageis-Shield.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+
+{Barrier max uses}
+{Maximum number of barriers aegis can deploy}
+{Assets/CrewButtons/Ageis-Shield.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Barrier duration}
+{How long the barrier lasts}
+{Assets/CrewButtons/Ageis-Shield.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=20s}
+
+{Barrier radius}
+{How large the protective zone is}
+{Assets/CrewButtons/Ageis-Shield.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=4}
+

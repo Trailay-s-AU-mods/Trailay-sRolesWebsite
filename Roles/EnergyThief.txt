@@ -1,0 +1,23 @@
+{Energy Thief}
+{Energy Thief drains energy from other players, making them weaker and slower}
+{Assets/RoleIcons/EnergyThief.png}
+{NewMod}
+{neutralwhite}
+
+Options:
+
+{Drain cooldown}
+{Change drain cooldown}
+{Assets/RoleIcons/EnergyThief.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+
+{Drain max uses}
+{Maximum number of drains energy thief can perform}
+{Assets/RoleIcons/EnergyThief.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Required drain count}
+{How many drains are needed to win}
+{Assets/RoleIcons/EnergyThief.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+

@@ -1,0 +1,38 @@
+{Charlatan}
+{Use deceive to report bodies you've killed from any distance. Use conceal to reduce the report range of nearby bodies}
+{Assets/RoleIcons/Charlatan.png}
+{TOU Mira Extension}
+{impred}
+
+Options:
+
+{Deceive base duration}
+{Base duration of the deceive effect}
+{Assets/ImpButtons/Charlatan-Deceive.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Deceive duration increase per kill}
+{How much deceive duration increases per kill}
+{Assets/ImpButtons/Charlatan-Deceive.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=2.5s}
+
+{Conceal uses}
+{How many times charlatan can conceal bodies}
+{Assets/ImpButtons/Charlatan-Conceal.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Conceal charges per kill}
+{How many conceal charges are gained per kill}
+{Assets/ImpButtons/Charlatan-Conceal.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=1}
+
+{Conceal cooldown}
+{Change conceal cooldown}
+{Assets/ImpButtons/Charlatan-Conceal.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Conceal channel duration}
+{How long it takes to channel a conceal}
+{Assets/ImpButtons/Charlatan-Conceal.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=2.5s}
+

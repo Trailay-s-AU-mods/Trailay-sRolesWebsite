@@ -1,0 +1,18 @@
+{Coroner}
+{Coroner has the ability to freeze dead bodies and preserve them, this prevents them from being destroyed after meetings}
+{Assets/RoleIcons/Coroner.png}
+{Launchpad Reloaded}
+{crewwhite}
+
+Options:
+
+{Freeze cooldown}
+{Change body freeze cooldown}
+{Assets/CrewButtons/Coroner-Freeze.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=15s}
+
+{Freeze uses}
+{How many times coroner can freeze bodies}
+{Assets/CrewButtons/Coroner-Freeze.png}
+{settingvalue: is true/false=false, min value=1, max value=∞, defaul value=∞}
+

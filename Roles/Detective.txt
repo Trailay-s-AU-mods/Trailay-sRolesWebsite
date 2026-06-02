@@ -1,0 +1,17 @@
+{Detective}
+{The Detective can inspect crime scenes and examine players to see if they were at the scene}
+{Assets/RoleIcons/Detective.png}
+{Town Of Us:Mira}
+{rgb(221, 158, 13)}
+
+Options:
+
+{Examine cooldown}
+{Set examine cooldown}
+{Assets/CrewButtons/Detective-Examine.png}
+{settingvalue: is true/false=false, min value=20s, max value=50s, defaul value=35s}
+
+{Inspect duration}
+{Set inspect duration}
+{Assets/CrewButtons/Detective-Inspect.png}
+{settingvalue: is true/false=false, min value=15s, max value=30s, defaul value=20s}

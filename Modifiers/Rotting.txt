@@ -1,0 +1,13 @@
+{Rotting}
+{After a set time, your body cannot be reported}
+{Assets/RoleIcons/Coroner.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Time before body rots away}
+{How long before the body becomes unreportable}
+{Assets/RoleIcons/Coroner.png}
+{settingvalue: is true/false=false, min value=1s, max value=30s, defaul value=5s}
+

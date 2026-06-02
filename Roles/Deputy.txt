@@ -1,0 +1,28 @@
+{Deputy}
+{Deputy has the ability to handcuff player}
+{Assets/RoleIcons/Deputy.png}
+{The Other Roles}
+{crewwhite}
+
+Options:
+
+{Handcuff uses}
+{How many times deputy can handcuff players}
+{Assets/CrewButtons/Deputy-Handcuff.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Handcuff cooldown}
+{Change handcuff cooldown}
+{Assets/CrewButtons/Deputy-Handcuff.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Handcuff duration}
+{How long the handcuff immobilizes a player}
+{Assets/CrewButtons/Deputy-Handcuff.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Sheriff and Deputy know each other}
+{Whether the sheriff and deputy are revealed to each other at game start}
+{Assets/CrewButtons/Deputy-Handcuff.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

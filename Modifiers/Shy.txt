@@ -1,0 +1,23 @@
+{Shy}
+{You blend in with the environment when you stay still}
+{Assets/RoleIcons/Swooper.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Transparency delay}
+{How long you must stay still before becoming transparent}
+{Assets/RoleIcons/Swooper.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Turn transparent duration}
+{How long it takes to fully turn transparent}
+{Assets/RoleIcons/Swooper.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Final opacity}
+{How transparent you become when fully blended in}
+{Assets/RoleIcons/Swooper.png}
+{settingvalue: is true/false=false, min value=5%, max value=80%, defaul value=20%}
+

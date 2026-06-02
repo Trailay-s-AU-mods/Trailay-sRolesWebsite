@@ -1,0 +1,28 @@
+{Button Barry}
+{You can call a meeting from anywhere on the map}
+{Assets/RoleIcons/Celebrity.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Button cooldown}
+{Change meeting call cooldown}
+{Assets/RoleIcons/Celebrity.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Max uses}
+{How many times button barry can call a meeting}
+{Assets/RoleIcons/Celebrity.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=1}
+
+{Ignore sabotages}
+{Whether button barry can call meetings during active sabotages}
+{Assets/RoleIcons/Celebrity.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Allow usage in first round}
+{Whether button barry can call a meeting in the first round}
+{Assets/RoleIcons/Celebrity.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

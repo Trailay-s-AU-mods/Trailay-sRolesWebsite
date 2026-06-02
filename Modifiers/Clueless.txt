@@ -1,0 +1,6 @@
+{Clueless}
+{You cannot see your task list, task markers or task locations on the map}
+{Assets/RoleIcons/LazyGuy.png}
+{TOU Mira Extension}
+{crewwhite}
+

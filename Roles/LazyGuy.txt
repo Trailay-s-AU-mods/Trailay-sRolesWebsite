@@ -1,0 +1,10 @@
+{Lazy Guy}
+{You have one random task!}
+{Assets/RoleIcons/LazyGuy.png}
+{Endless Host Roles}
+{rgb(120, 204, 236)}
+
+Options:
+
+none ;)
+

@@ -1,0 +1,18 @@
+{Underdog}
+{Your kill cooldown is lower when you are last impostor standing}
+{Assets/RoleIcons/KillingMachine.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Kill cooldown bonus}
+{How many seconds are removed from kill cooldown when last impostor}
+{Assets/RoleIcons/KillingMachine.png}
+{settingvalue: is true/false=false, min value=1s, max value=20s, defaul value=5s}
+
+{Increased kill cooldown bonus when 2+ imps}
+{Whether the bonus also applies when there are 2 or more impostors}
+{Assets/RoleIcons/KillingMachine.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

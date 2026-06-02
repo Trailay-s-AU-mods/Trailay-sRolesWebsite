@@ -1,0 +1,13 @@
+{Giant}
+{You are bigger and slower}
+{Assets/RoleIcons/SuperStar.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Giant speed}
+{How fast giant moves compared to regular players}
+{Assets/RoleIcons/SuperStar.png}
+{settingvalue: is true/false=false, min value=0.25x, max value=0.9x, defaul value=0.75x}
+

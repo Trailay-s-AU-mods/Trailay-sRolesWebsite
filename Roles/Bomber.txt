@@ -1,0 +1,48 @@
+{Bomber}
+{Bomber can place a bomb on the map, which detonates after a set amount of time. Anybody within the bomb radius when it detonates will be killed!}
+{Assets/RoleIcons/Bomber.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Bomb uses per game}
+{How many bombs the bomber can place per game}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Detonate delay}
+{How long before the bomb detonates}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=false, min value=1s, max value=20s, defaul value=5s}
+
+{Detonate radius}
+{How large the detonation radius is}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=false, min value=0.1x, max value=1.0x, defaul value=0.25x}
+
+{Max kills in detonation}
+{Maximum number of players killed in one detonation}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{All impostors see bomb}
+{Whether all impostors can see the placed bomb}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Allow bombing in first round}
+{Allow bomber to place a bomb in the first round}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Bomb can kill other impostors}
+{Allow the bomb to kill other impostors}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Bomber can vent}
+{Allow bomber to use vents}
+{Assets/ImpButtons/Bomber-PlaceBomb.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

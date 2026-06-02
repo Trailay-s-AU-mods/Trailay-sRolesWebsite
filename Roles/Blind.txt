@@ -1,0 +1,28 @@
+{Blind}
+{You can't tell players apart. Radiate same player (num) Times to see if they are good or bad}
+{Assets/RoleIcons/Blind.png}
+{Town Of Us (OG)}
+{rgb(255, 255, 255)}
+
+Options:
+
+{Radiate range}
+{Range in which you can radiate player}
+{Assets/CrewButton/Blind-Radiate.png}
+{settingvalue: is true/false=false, min value=0.5, max value=2.0, defaul value=1.0}
+
+{Radiate cooldown}
+{Radiate ability cooldown}
+{Assets/CrewButton/Blind-Radiate.png}
+{settingvalue: is true/false=false, min value=20s, max value=35s, defaul value=25s}
+
+{Radiate see delay}
+{Delay to see radiate progress}
+{Assets/CrewButton/Blind-Radiate.png}
+{settingvalue: is true/false=false, min value=0s, max value=10s, defaul value=5s}
+
+{Radiates needed to see}
+{How much you need to radiate same player to see if they are good or bad}
+{Assets/CrewButton/Blind-Radiate.png}
+{settingvalue: is true/false=false, min value=1, max value=3, defaul value=3}
+

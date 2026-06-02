@@ -1,0 +1,18 @@
+{Forestaller}
+{Finish all your tasks. Once you do, sabotages cannot be called while you are alive}
+{Assets/RoleIcons/Forestaller.png}
+{TOU Mira Extension}
+{crewwhite}
+
+Options:
+
+{Extra short tasks}
+{How many extra short tasks forestaller receives}
+{Assets/RoleIcons/Forestaller.png}
+{settingvalue: is true/false=false, min value=0, max value=5, defaul value=1}
+
+{Extra long tasks}
+{How many extra long tasks forestaller receives}
+{Assets/RoleIcons/Forestaller.png}
+{settingvalue: is true/false=false, min value=0, max value=5, defaul value=1}
+

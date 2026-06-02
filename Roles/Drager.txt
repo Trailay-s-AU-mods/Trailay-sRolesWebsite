@@ -1,0 +1,43 @@
+{Drager}
+{Drager can drag dead bodies around the map and drop them elsewhere to prevent them from being reported easily}
+{Assets/RoleIcons/Drager.png}
+{Modding Us & Launchpad Reloaded & Town Of Us Mira}
+{impred}
+
+Options:
+
+{Drag cooldown}
+{Change drag cooldown}
+{Assets/ImpButtons/Drager-Drag.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Drag speed}
+{How fast drager moves while dragging a body}
+{Assets/ImpButtons/Drager-Drag.png}
+{settingvalue: is true/false=false, min value=0.25x, max value=1.5x, defaul value=0.75x}
+
+{Dragging speed is affected by body size}
+{Whether drager moves slower when dragging larger bodies}
+{Assets/ImpButtons/Drager-Drag.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Drager can vent}
+{Allow drager to use vents}
+{Assets/ImpButtons/Drager-Drag.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can vent with body}
+{Allow drager to take bodies through vents}
+{Assets/ImpButtons/Drager-Drag.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Drager can kill with teammate}
+{Allow drager to perform kills with an impostor teammate}
+{Assets/ImpButtons/Drager-Drag.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can hide the body in vents}
+{Allow drager to permanently hide bodies inside vents}
+{Assets/ImpButtons/Drager-Drag.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

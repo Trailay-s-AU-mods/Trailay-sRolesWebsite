@@ -1,0 +1,17 @@
+{Doctor}
+{Doctor can see cause of death for all players. They also have access to Mobile Vitals like a scientist}
+{Assets/RoleIcons/Doctor.png}
+{Endless Host Roles}
+{rgb(0, 200, 105)}
+
+Options:
+
+{Battery duration}
+{Duration of the vitals battery}
+{Assets/CrewButtons/Doctor-Vitals.png}
+{settingvalue: is true/false=false, min value=20s, max value=40s, defaul value=30s}
+
+{Everyone knows the doctor}
+{This setting determines if everyone knows who the doctor is}
+{Assets/RoleIcons/Doctor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}

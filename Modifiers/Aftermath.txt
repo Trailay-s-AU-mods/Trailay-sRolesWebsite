@@ -1,0 +1,6 @@
+{Aftermath}
+{After you die, your killer will be forced to use their abilities on your body or themselves}
+{Assets/RoleIcons/Altruist.png}
+{Town Of Us Mira}
+{crewwhite}
+

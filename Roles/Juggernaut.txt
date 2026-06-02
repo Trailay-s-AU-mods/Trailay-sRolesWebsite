@@ -1,0 +1,28 @@
+{Juggernaut}
+{Juggernaut wins by being the last killer alive. With each kill, their cooldown gets reduced}
+{Assets/RoleIcons/Juggernaut.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Start cooldown}
+{Starting kill cooldown for juggernaut}
+{Assets/NeuButtons/Juggernaut-Kill.png}
+{settingvalue: is true/false=false, min value=20s, max value=90s, defaul value=50s}
+
+{Cooldown reduction}
+{How many seconds are removed from kill cooldown per kill}
+{Assets/NeuButtons/Juggernaut-Kill.png}
+{settingvalue: is true/false=false, min value=1s, max value=20s, defaul value=10s}
+
+{Minimum cooldown}
+{Minimum kill cooldown juggernaut can reach}
+{Assets/NeuButtons/Juggernaut-Kill.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Juggernaut can vent}
+{Allow juggernaut to use vents}
+{Assets/NeuButtons/Juggernaut-Vent.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

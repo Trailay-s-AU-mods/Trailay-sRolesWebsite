@@ -1,0 +1,6 @@
+{Sixth Sense}
+{You will know when someone uses their ability on you}
+{Assets/RoleIcons/Mystic.png}
+{Town Of Us Mira}
+{crewwhite}
+

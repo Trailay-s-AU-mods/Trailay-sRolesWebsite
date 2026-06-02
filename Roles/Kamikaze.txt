@@ -1,0 +1,13 @@
+{Kamikaze}
+{Kamikaze can mark players, once he die all marked players will also die!}
+{Assets/RoleIcons/Kamikaze.png}
+{Endless Host Roles}
+{impred}
+
+Options:
+
+{Mark cooldown}
+{Change mark cooldown}
+{Assets/ImpButtons/Kamikaze-Mark.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+

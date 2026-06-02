@@ -1,0 +1,6 @@
+{Sleuth}
+{You will see the roles of bodies you report}
+{Assets/RoleIcons/Detective.png}
+{Town Of Us Mira}
+{crewwhite}
+

@@ -1,0 +1,28 @@
+{Satellite}
+{You can check for bodies on the map}
+{Assets/RoleIcons/Sentry.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Button cooldown}
+{Change body check cooldown}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=15s}
+
+{Max uses}
+{How many times satellite can check for bodies}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{One usage per round}
+{Whether satellite can only check once per round}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Allow usage in first round}
+{Whether satellite can check for bodies in the first round}
+{Assets/RoleIcons/Sentry.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

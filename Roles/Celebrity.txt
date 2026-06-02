@@ -1,0 +1,23 @@
+{Celebrity}
+{When you die selected teams will get alerted}
+{Assets/RoleIcons/Celebrity.png}
+{Endless Host Roles}
+{rgb(255, 153, 153)}
+
+Options:
+
+{Impostors get alerted}
+{With this setting turned on, impostors will get alerted whenerver celebrity dies}
+{Assets/Impostor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutrals get alerted}
+{With this setting turned on, neutrals will get alerted whenerver celebrity dies}
+{Assets/Neutral.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Crewmates get alerted}
+{With this setting turned on, crewmates will get alerted whenerver celebrity dies}
+{Assets/Crewmate.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=ON}
+

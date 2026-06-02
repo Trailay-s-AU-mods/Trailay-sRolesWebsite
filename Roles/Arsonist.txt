@@ -1,0 +1,28 @@
+{Arsonist}
+{Arsonist must douse and ignite players within their radius and wins by being the last killer alive}
+{Assets/RoleIcons/Arsonist.png}
+{YanplaRoles}
+{neutralwhite}
+
+Options:
+
+{Douse cooldown}
+{Change douse cooldown}
+{Assets/NeuButtons/Arsonist-Douse.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Max players doused at the same time}
+{Maximum number of players that can be doused simultaneously}
+{Assets/NeuButtons/Arsonist-Douse.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Has impostor vision}
+{Whether arsonist has increased impostor vision}
+{Assets/NeuButtons/Arsonist-Ignite.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Arsonist can vent}
+{Allow arsonist to use vents}
+{Assets/NeuButtons/Arsonist-Vent.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,28 @@
+{Deadlock}
+{Lockdown to temporarily disable all crewmate tasks. During lockdown crewmates cannot access and complete any tasks}
+{Assets/RoleIcons/Deadlock.png}
+{Divani Mods}
+{impred}
+
+Options:
+
+{Lockdown duration}
+{How long the lockdown lasts}
+{Assets/ImpButtons/Deadlock-Lockdown.png}
+{settingvalue: is true/false=false, min value=3s, max value=30s, defaul value=10s}
+
+{Lockdown cooldown}
+{Change lockdown cooldown}
+{Assets/ImpButtons/Deadlock-Lockdown.png}
+{settingvalue: is true/false=false, min value=15s, max value=90s, defaul value=45s}
+
+{Initial charges}
+{How many lockdown charges deadlock starts with}
+{Assets/ImpButtons/Deadlock-Lockdown.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=1}
+
+{Charges per kill}
+{How many charges are gained per kill}
+{Assets/ImpButtons/Deadlock-Lockdown.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=2}
+

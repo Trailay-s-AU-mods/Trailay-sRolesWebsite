@@ -1,0 +1,18 @@
+{Circumvent}
+{Your ability to vent is severely weakened, or may be unavailable in general}
+{Assets/RoleIcons/Noclip.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Minimum vents}
+{Minimum number of vents circumvent can access}
+{Assets/RoleIcons/Noclip.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Maximum vents}
+{Maximum number of vents circumvent can access}
+{Assets/RoleIcons/Noclip.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=8}
+

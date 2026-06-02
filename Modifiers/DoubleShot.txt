@@ -1,0 +1,6 @@
+{Double Shot}
+{You get a second chance when you miss guess a player in a meeting}
+{Assets/RoleIcons/Vigilante.png}
+{Town Of Us Mira}
+{crewwhite}
+

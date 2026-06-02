@@ -1,0 +1,33 @@
+{Ninja}
+{Ninja is an Impostor who has the ability to kill another player all over the map. You can mark a player with your ability and by using the ability again, you jump to the position of the marked player and kill it}
+{Assets/RoleIcons/Ninja.png}
+{The Other Roles}
+{impred}
+
+Options:
+
+{Mark cooldown}
+{Change mark cooldown}
+{Assets/ImpButtons/Ninja-Mark.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Knows location of target}
+{Whether ninja can see the location of the marked target}
+{Assets/ImpButtons/Ninja-Mark.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Trace duration}
+{How long the trace left behind lasts}
+{Assets/ImpButtons/Ninja-Mark.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Time till trace color has faded}
+{How long before the trace color fades}
+{Assets/ImpButtons/Ninja-Mark.png}
+{settingvalue: is true/false=false, min value=1s, max value=10s, defaul value=3s}
+
+{Time ninja is invisible}
+{How long ninja stays invisible during the kill}
+{Assets/ImpButtons/Ninja-Mark.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+

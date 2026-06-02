@@ -1,0 +1,48 @@
+{Altruist}
+{Find bodies and revive them after delay, killers will get alerted!!!}
+{Assets/RoleIcons/Altruist.png}
+{Town Of Trailay}
+{crewwhite}
+
+Options:
+
+{Revive mode}
+{Whether altruist revives the body or sacrifices themselves}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=false, min value=Revive, max value=Sacrifice, defaul value=Revive}
+
+{Altruist leaves body behind}
+{If set to Sacrifice, whether altruist leaves a body when they sacrifice}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Revive uses per game}
+{If set to Revive, how many revives altruist can perform}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Revival delay}
+{How long before the revival completes}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Killers alerted}
+{Which killers are alerted when altruist revives a player}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=false, min value=Impostors only, max value=Impostors & Neutrals, defaul value=Impostors only}
+
+{Arrow pointing to revived player}
+{Whether an arrow points to the revived player after revival}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Arrow duration}
+{How long the revival arrow lasts}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=false, min value=3s, max value=30s, defaul value=10s}
+
+{Arrow delay}
+{How long before the revival arrow appears}
+{Assets/CrewButtons/Altruist-Revive.png}
+{settingvalue: is true/false=false, min value=1s, max value=10s, defaul value=2s}
+

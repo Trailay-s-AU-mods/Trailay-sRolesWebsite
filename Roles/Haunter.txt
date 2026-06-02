@@ -1,0 +1,27 @@
+{Haunter}
+{The Haunter is the ghost of a crewmate who must complete their tasks without being caught to reveal the Impostors to the living}
+{Assets/RoleIcons/Haunter.png}
+{Town Of Us:Mira}
+{rgb(212, 212, 212)}
+
+Options:
+
+{Task left before clickable}
+{Determines how many tasks left for you to complete make you clickable}
+{Assets/MouseClick.png}
+{settingvalue: is true/false=false, min value=2, max value=4, defaul value=3}
+
+{Task left before alerted}
+{Determines how many tasks left for you to alert all living players}
+{Assets/MouseClick.png}
+{settingvalue: is true/false=false, min value=1, max value=2, defaul value=1}
+
+{Reveal Neutrals}
+{Determines if you reveal neutrals to living players after completing all tasks}
+{Assets/Neutral.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can be clicked by}
+{Determines who can click haunter to turn him into a ghost}
+{Assets/MouseClick.png}
+{settingvalue: is true/false=false, min value=Non-crew, custom value=Impostors only, max value=Everyone, defaul value=Everyone}

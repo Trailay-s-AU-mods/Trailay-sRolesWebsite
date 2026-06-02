@@ -1,0 +1,33 @@
+{Lovers}
+{As a lover you can chat with your other lover during the round via lovers chat. If one of you dies the other will die too!}
+{Assets/RoleIcons/Romantic.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Both lovers die and revive together}
+{Whether revival of one lover also revives the other}
+{Assets/RoleIcons/Romantic.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Loving another killer probability}
+{Chance that one lover is assigned to a killing role}
+{Assets/RoleIcons/Romantic.png}
+{settingvalue: is true/false=false, min value=0%, max value=100%, defaul value=20%}
+
+{Neutral roles can be lovers}
+{Whether neutral roles can be assigned as lovers}
+{Assets/RoleIcons/Romantic.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Lover can kill faction teammates}
+{Whether a lover can kill members of their own faction to protect their partner}
+{Assets/RoleIcons/Romantic.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Lovers can kill one another}
+{Whether the two lovers can kill each other}
+{Assets/RoleIcons/Romantic.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
