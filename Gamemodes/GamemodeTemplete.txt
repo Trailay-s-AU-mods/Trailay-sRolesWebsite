@@ -1,0 +1,8 @@
+{gamemodename}
+{gamemodedescription}
+{gamemodelogo}
+Options:
+{settingname}
+{settingdesc}
+{setting, is true/false, min value, max value, defaul value}
+
