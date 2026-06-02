@@ -1,0 +1,58 @@
+{Puppeteer}
+{Puppeteer can choose a target to kill for him. The target will kill anyone as long as they are not an Impostor. Puppeteers cannot kill normally}
+{Assets/RoleIcons/Puppeteer.png}
+{Endless Host Roles}
+{impred}
+
+Options:
+
+{Puppet cooldown}
+{Change puppet cooldown}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Min delay before puppeted player can kill}
+{Minimum delay before puppeted player performs a kill}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=false, min value=1s, max value=10s, defaul value=3s}
+
+{Max delay before puppeted player can kill}
+{Maximum delay before puppeted player performs a kill}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Manipulation ends after specific time}
+{Whether the puppet manipulation ends after a set time}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Time after manipulation ends}
+{How long before the manipulation ends}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=false, min value=5s, max value=60s, defaul value=30s}
+
+{Bypass shields/invincibility}
+{Allow puppet kills to bypass shields}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Puppet can kill impostor}
+{Whether puppeted player can kill impostors}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Number of puppets}
+{How many puppets puppeteer can use per game}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Puppeteer dies after running out of puppets}
+{Whether puppeteer dies when all puppet uses are exhausted}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Puppet dies along with the victim}
+{Whether the puppeted player dies after performing a kill}
+{Assets/ImpButtons/Puppeteer-Puppet.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,38 @@
+{Witch}
+{Witch is an Impostor who has the ability to cast a spell on other players. During the next meeting, the spellbound player will be highlighted and they'll die right after the meeting if the Witch is not ejected/guessed}
+{Assets/RoleIcons/Witch.png}
+{The Other Roles}
+{impred}
+
+Options:
+
+{Spell cast cooldown}
+{Change spell cast cooldown}
+{Assets/ImpButtons/Witch-SpellCast.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+
+{Additional cooldown}
+{Extra cooldown added after each spell cast}
+{Assets/ImpButtons/Witch-SpellCast.png}
+{settingvalue: is true/false=false, min value=0s, max value=30s, defaul value=10s}
+
+{Can spell anyone}
+{Allow witch to cast spells on any player including impostors}
+{Assets/ImpButtons/Witch-SpellCast.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Spell casting duration}
+{How long it takes to cast a spell}
+{Assets/ImpButtons/Witch-SpellCast.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=3s}
+
+{Trigger both cooldowns}
+{Whether both kill and spell cooldowns are triggered together}
+{Assets/ImpButtons/Witch-SpellCast.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Voting the witch saves all targets}
+{Whether ejecting the witch saves all spellbound players}
+{Assets/ImpButtons/Witch-SpellCast.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

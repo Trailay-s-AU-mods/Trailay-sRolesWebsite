@@ -1,0 +1,18 @@
+{Serial Killer}
+{Serial Killer has two kill buttons, he can perform a double kill by himself. You can kill players in a vent, but you'll lose the ability to vent after doing so}
+{Assets/RoleIcons/SerialKiller.png}
+{Endless Host Roles & TOU Mira Extension}
+{neutralwhite}
+
+Options:
+
+{Additional kill cooldown}
+{Cooldown for the second kill button}
+{Assets/RoleIcons/SerialKiller.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Has impostor vision}
+{Whether serial killer has increased impostor vision}
+{Assets/RoleIcons/SerialKiller.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,9 @@
+{Super Star}
+{Every body knows you! You can only be killed in a 1 vs 1 situation (even 2 impostors block kill)}
+{Assets/RoleIcons/SuperStar.png}
+{modcredits}
+{color}
+
+Options:
+
+none ;)

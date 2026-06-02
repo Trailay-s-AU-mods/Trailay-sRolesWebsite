@@ -1,0 +1,48 @@
+{Vampire}
+{Vampire wins by being the last killer alive, or being the last team remaining. They can bite players to kill them, or depending on settings, convert them into Vampires}
+{Assets/RoleIcons/Vampire.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Bite cooldown}
+{Change bite cooldown}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Kill delay}
+{How long after a bite before the victim dies}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=false, min value=3s, max value=30s, defaul value=15s}
+
+{Can convert someone for teammate}
+{Whether vampire can convert bitten players into vampires instead of killing them}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can convert Crewmates}
+{Whether crewmates can be converted}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can convert Neutral Benigns}
+{Whether neutral benign roles can be converted}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can convert Neutral Evils}
+{Whether neutral evil roles can be converted}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Max converts}
+{Maximum number of players vampire can convert}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=1}
+
+{Vampire(s) can vent}
+{Allow vampire and converted vampires to use vents}
+{Assets/NeuButtons/Vampire-Bite.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,48 @@
+{Sheriff}
+{Sheriff can shoot a suspicious player to attempt to kill them}
+{Assets/RoleIcons/Sheriff.png}
+{YanplaRoles & Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Shoot cooldown}
+{Change shoot cooldown}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=35s}
+
+{Can self report}
+{Whether sheriff can self-report after a misfire}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Allow shooting first round}
+{Whether sheriff can shoot during the first round}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can shoot neutral evil roles}
+{Whether neutral evil roles are valid kill targets}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can shoot neutral benign roles}
+{Whether neutral benign roles are valid kill targets}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can shoot neutral killing roles}
+{Whether neutral killing roles are valid kill targets}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can shoot neutral outlier roles}
+{Whether neutral outlier roles are valid kill targets}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Miss fire kills target}
+{Whether a misfire kills the target instead of the sheriff}
+{Assets/CrewButtons/Sheriff-Shoot.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

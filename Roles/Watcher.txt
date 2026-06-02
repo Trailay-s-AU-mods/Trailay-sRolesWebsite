@@ -1,0 +1,33 @@
+{Watcher}
+{Place Sensor will place sensor on the map that will trigger the moment someone is near it. Watcher gets a flash and an arrow pointing to triggered sensor}
+{Assets/RoleIcons/Watcher.png}
+{Stellar Roles}
+{crewwhite}
+
+Options:
+
+{Sensor place uses}
+{How many sensors watcher can place per game}
+{Assets/CrewButtons/Watcher/PlaceSensor.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Sensor place cooldown}
+{Change sensor placement cooldown}
+{Assets/CrewButtons/Watcher/PlaceSensor.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=15s}
+
+{Sensors reset after the meeting}
+{Whether all sensors reset at the start of each round}
+{Assets/CrewButtons/Watcher/PlaceSensor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Non-Crew sensor notification delay}
+{Delay before watcher is notified when a non-crew player triggers a sensor}
+{Assets/CrewButtons/Watcher/PlaceSensor.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=5s, defaul value=1.5s}
+
+{Anonymous sensor arrows}
+{Whether sensor arrows show the player's color or are anonymous}
+{Assets/CrewButtons/Watcher/PlaceSensor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

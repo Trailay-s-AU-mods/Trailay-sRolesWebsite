@@ -1,0 +1,42 @@
+{Seer}
+{The Seer is able to Reveal the alliance of other players, seeing player names as red or green depending on their faction andf role}
+{Assets/RoleIcons/Seer.png}
+{Town Of Us:Mira}
+{rgb(255, 204, 128)}
+
+Options:
+
+{Seer cooldown}
+{Cooldown for reveal ability}
+{Assets/CrewButton/Seer-Reveal.png}
+{settingvalue: is true/false=false, min value=15s, max value=45s, defaul value=25s}
+
+{Crewmate killing roles are red}
+{Determines if crewmate killing roles are shown as evil (red)}
+{Assets/Crewmate.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutral benign roles are red}
+{Determines if neutral benign roles are shown as evil (red)}
+{Assets/Neutral.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutral evil roles are red}
+{Determines if neutral evil roles are shown as evil (red)}
+{Assets/Neutral.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutral killing roles are red}
+{Determines if neutral killing roles are shown as evil (red)}
+{Assets/Neutral.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutral outlier roles are red}
+{Determines if neutral outlier roles are shown as evil (red)}
+{Assets/Neutral.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Traitor swaps colors}
+{Determines if traitor swaps colors (to red)}
+{Assets/Impostor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}

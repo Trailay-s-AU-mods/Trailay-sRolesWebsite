@@ -1,0 +1,12 @@
+{Spy}
+{The Spy gains extra information by using the Admin table}
+{Assets/RoleIcons/Spy.png}
+{Town Of Us:Mira}
+{rgb(204, 163, 204)}
+
+Options:
+
+{Who sees dead bodies on admin}
+{This setting determines who can see dead bodies on the admin panel}
+{Assets/CrewButtons/Spy-Admin.png}
+{settingvalue: is true/false=false, min value=Nobody, custom value=Everyone, custom value2=Everyone exept spy, max value=Spy only, defaul value=Spy only}

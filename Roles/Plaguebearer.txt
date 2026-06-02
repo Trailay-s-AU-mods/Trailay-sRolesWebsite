@@ -1,0 +1,43 @@
+{Plaguebearer}
+{Plaguebearer must infect all other players to transform into Pestilence. The infection spreads via interactions, including reporting infected bodies. Pestilence wins by being the last killer alive and is invincible to all interactions}
+{Assets/RoleIcons/Plaguebearer.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Instant Pestilence chance}
+{Probability of spawning directly as Pestilence}
+{Assets/NeuButtons/Plaguebearer-Infect.png}
+{settingvalue: is true/false=false, min value=0%, max value=100%, defaul value=5%}
+
+{Infect cooldown}
+{Change infect cooldown}
+{Assets/NeuButtons/Plaguebearer-Infect.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Arrows pointing towards infections}
+{Whether plaguebearer has arrows pointing to uninfected players}
+{Assets/NeuButtons/Plaguebearer-Infect.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Give illness to non-lethal interactions}
+{Whether non-lethal ability interactions also spread infection}
+{Assets/NeuButtons/Plaguebearer-Infect.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Announce Pestilence transformation}
+{Whether all players are notified when plaguebearer transforms into Pestilence}
+{Assets/NeuButtons/Pestilence-Kill.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Pestilence kill cooldown}
+{Pestilence's kill cooldown after transformation}
+{Assets/NeuButtons/Pestilence-Kill.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Pestilence can vent}
+{Allow Pestilence to use vents}
+{Assets/NeuButtons/Pestilence-Vent.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

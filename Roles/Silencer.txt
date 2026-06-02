@@ -1,0 +1,23 @@
+{Silencer}
+{Each kill you make shaves seconds off the voting time of every meeting for the rest of the game}
+{Assets/RoleIcons/Silencer.png}
+{Divani Mods}
+{impred}
+
+Options:
+
+{Seconds cut per kill}
+{How many seconds are removed from voting time per kill}
+{Assets/ImpButtons/Silencer-Silence.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Minimum voting time}
+{The minimum voting time that can be reached}
+{Assets/ImpButtons/Silencer-Silence.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+
+{Normal voting time when dead}
+{Whether voting time returns to normal when silencer is dead}
+{Assets/ImpButtons/Silencer-Silence.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

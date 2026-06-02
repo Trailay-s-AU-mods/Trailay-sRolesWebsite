@@ -1,0 +1,33 @@
+{Thief}
+{Use your pickpocket ability to steal players modifiers. You can hold a limited number of stolen modifiers}
+{Assets/RoleIcons/Thief.png}
+{Divani Mods}
+{crewwhite}
+
+Options:
+
+{Max stolen modifiers}
+{Maximum number of modifiers thief can hold at once}
+{Assets/CrewButtons/Thief-PickPocket.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=2}
+
+{Pickpocket cooldown}
+{Change pickpocket cooldown}
+{Assets/CrewButtons/Thief-PickPocket.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Pickpocket duration}
+{Whether stolen modifiers expire after a duration}
+{Assets/CrewButtons/Thief-PickPocket.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Pickpocket duration time}
+{How long a stolen modifier lasts before expiring}
+{Assets/CrewButtons/Thief-PickPocket.png}
+{settingvalue: is true/false=false, min value=10s, max value=120s, defaul value=30s}
+
+{Stealing lovers breaks their heart}
+{Whether stealing a modifier from a lover breaks the lovers bond}
+{Assets/CrewButtons/Thief-PickPocket.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

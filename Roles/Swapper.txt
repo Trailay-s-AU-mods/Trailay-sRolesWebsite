@@ -1,0 +1,13 @@
+{Swapper}
+{Swapper can swap the votes of two players in a meeting. If Player 1 received the most votes and they are swapped with Player 2, then Player 2 will be ejected}
+{Assets/RoleIcons/Swapper.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Can call meeting}
+{Whether swapper can call emergency meetings}
+{Assets/RoleIcons/Swapper.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

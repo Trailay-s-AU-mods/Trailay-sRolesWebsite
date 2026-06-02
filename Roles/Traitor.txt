@@ -1,0 +1,38 @@
+{Traitor}
+{Traitor, you were an Impostor that betrayed the Impostors, you know the Impostors but they don't know you. The twist? They can kill you but you can't kill them}
+{Assets/RoleIcons/Traitor.png}
+{Endless Host Roles}
+{neutralwhite}
+
+Options:
+
+{Kill cooldown}
+{Change kill cooldown}
+{Assets/RoleIcons/Traitor.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Can vent}
+{Allow traitor to use vents}
+{Assets/RoleIcons/Traitor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Has impostor vision}
+{Whether traitor has increased impostor vision}
+{Assets/RoleIcons/Traitor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can sabotage}
+{Whether traitor can trigger sabotages}
+{Assets/RoleIcons/Traitor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can get impostor-only modifiers}
+{Whether traitor can receive impostor-exclusive modifiers}
+{Assets/RoleIcons/Traitor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can kill impostors}
+{Whether traitor can kill impostor team members}
+{Assets/RoleIcons/Traitor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,38 @@
+{Vent Trapper}
+{Place traps on vents. Players who use trapped vents will be immobilized for a duration}
+{Assets/RoleIcons/VentTrapper.png}
+{TOU Mira Extension}
+{crewwhite}
+
+Options:
+
+{Trap cooldown}
+{Change vent trap placement cooldown}
+{Assets/CrewButtons/VentTrapper-Trap.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Trap duration}
+{How long trapped players are immobilized}
+{Assets/CrewButtons/VentTrapper-Trap.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Arrow duration}
+{How long the arrow pointing to the trapped player lasts}
+{Assets/CrewButtons/VentTrapper-Trap.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Max number of traps}
+{Maximum number of vent traps that can be placed}
+{Assets/CrewButtons/VentTrapper-Trap.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=4}
+
+{Get more traps by doing tasks}
+{Whether completing tasks grants additional vent traps}
+{Assets/CrewButtons/VentTrapper-Trap.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Tasks until more traps}
+{How many tasks must be completed to earn another trap}
+{Assets/CrewButtons/VentTrapper-Trap.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+

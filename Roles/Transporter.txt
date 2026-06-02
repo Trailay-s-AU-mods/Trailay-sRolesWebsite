@@ -1,0 +1,33 @@
+{Transporter}
+{Transporter can transport two players, dead or alive, to swap their locations}
+{Assets/RoleIcons/Transporter.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Transport cooldown}
+{Change transport cooldown}
+{Assets/CrewButtons/Transporter-Transport.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Max uses}
+{How many times transporter can swap players per game}
+{Assets/CrewButtons/Transporter-Transport.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Move while using transport menu}
+{Whether transporter can move while the transport menu is open}
+{Assets/CrewButtons/Transporter-Transport.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can use vitals}
+{Whether transporter has access to the vitals panel}
+{Assets/CrewButtons/Transporter-Transport.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Get more uses from completing tasks}
+{Whether completing tasks grants additional transports}
+{Assets/CrewButtons/Transporter-Transport.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

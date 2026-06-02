@@ -1,0 +1,53 @@
+{Officer}
+{Officer can shoot players with limited ammo. They must load bullets, which only last one round unless they are added within 10 seconds}
+{Assets/RoleIcons/Officer.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Shoot cooldown}
+{Change shoot cooldown}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Bullets at once}
+{How many bullets officer can load at a time}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Bullets in total}
+{Total number of bullets officer has per game}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=false, min value=1, max value=20, defaul value=9}
+
+{Can self report}
+{Whether officer can report their own accidental kills}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Allow shooting in the first round}
+{Whether officer can shoot during the first round}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Officer can only shoot players that have killed}
+{Whether officer is restricted to shooting players with kills}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Crewmate killing are innocent}
+{Whether crewmate killing roles count as innocent when shot}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Rounds to shoot again after misfire}
+{How many rounds must pass before officer can shoot again after a misfire}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=1}
+
+{Loading delay}
+{How long it takes to load a bullet}
+{Assets/CrewButtons/Officer-Load.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=3s}
+

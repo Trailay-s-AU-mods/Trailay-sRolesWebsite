@@ -1,0 +1,28 @@
+{Werewolf}
+{Werewolf wins by being the last killer alive, they can go on a rampage to increase their vision and gain the ability to kill multiple times within a set duration}
+{Assets/RoleIcons/Werewolf.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Rampage cooldown}
+{Change rampage cooldown}
+{Assets/NeuButtons/Werewolf-Rampage.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Rampage duration}
+{How long the rampage lasts}
+{Assets/NeuButtons/Werewolf-Rampage.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+
+{Rampage kill cooldown}
+{Kill cooldown during rampage}
+{Assets/NeuButtons/Werewolf-Kill.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=5s, defaul value=1.5s}
+
+{Can vent when rampaged}
+{Allow werewolf to use vents during rampage}
+{Assets/NeuButtons/Werewolf-Vent.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

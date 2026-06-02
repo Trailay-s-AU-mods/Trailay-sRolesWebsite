@@ -1,0 +1,18 @@
+{Sociolite}
+{Party with someone to block any ability used on them}
+{Assets/RoleIcons/Sociolite.png}
+{TOHO Suggestion by Zen}
+{crewwhite}
+
+Options:
+
+{Party cooldown}
+{Change party cooldown}
+{Assets/CrewButtons/Sociolite-Party.png}
+{settingvalue: is true/false=false, min value=15s, max value=90s, defaul value=45s}
+
+{Can party with the same person in a row}
+{Whether sociolite can party with the same player consecutively}
+{Assets/CrewButtons/Sociolite-Party.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

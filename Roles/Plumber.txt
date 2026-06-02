@@ -1,0 +1,13 @@
+{Plumber}
+{Plumber can Flush the vent system, forcing any venters out. The Plumber will get an arrow pointing to any flushed player for one second}
+{Assets/RoleIcons/Plumber.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Flush cooldown}
+{Change flush cooldown}
+{Assets/CrewButtons/Plumber-Flush.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+

@@ -1,0 +1,33 @@
+{Parasite}
+{Overtake a victim to control their movement. Press the same button again to kill them or wait for the timer}
+{Assets/RoleIcons/Parasite.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Overtake cooldown}
+{Change overtake cooldown}
+{Assets/ImpButtons/Parasite-Overtake.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=40s}
+
+{Kill cooldown}
+{How long after overtaking before parasite can kill}
+{Assets/ImpButtons/Parasite-Overtake.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+
+{Control duration}
+{How long parasite can control the victim}
+{Assets/ImpButtons/Parasite-Overtake.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=20s}
+
+{Save victim if parasite dies}
+{Whether the victim is saved if the parasite dies during control}
+{Assets/ImpButtons/Parasite-Overtake.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Save victim if meeting is called}
+{Whether the victim is saved if a meeting is called during control}
+{Assets/ImpButtons/Parasite-Overtake.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

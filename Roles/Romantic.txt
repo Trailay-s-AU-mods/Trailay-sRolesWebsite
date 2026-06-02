@@ -1,0 +1,38 @@
+{Romantic}
+{Romantic is a role who Declares their love to any player. When they do this, their alignment becomes tied to them. They will win if their chosen target does}
+{Assets/RoleIcons/Romantic.png}
+{Stellar Roles}
+{neutralwhite}
+
+Options:
+
+{Romance cooldown}
+{Change romance declaration cooldown}
+{Assets/NeuButtons/Romantic/Romance.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+
+{Protect cooldown}
+{Change protect cooldown}
+{Assets/NeuButtons/Romantic/RomanticProtect.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=30s}
+
+{Protect duration}
+{How long the protection lasts}
+{Assets/NeuButtons/Romantic/RomanticProtect.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Romantic knows their partner's role}
+{Whether romantic is told their partner's role}
+{Assets/NeuButtons/Romantic/RomanticHeart.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Partner knows who the romantic is}
+{Whether the partner is told they have a romantic}
+{Assets/NeuButtons/Romantic/RomanticHeart.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Have arrows pointing to each other}
+{Whether romantic and partner always have arrows pointing to each other}
+{Assets/NeuButtons/Romantic/RomanticHeart.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

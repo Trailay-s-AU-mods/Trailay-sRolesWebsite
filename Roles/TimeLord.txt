@@ -1,0 +1,53 @@
+{TimeLord}
+{TimeLord can rewind time by 10 seconds and potentially revive someone. He doesn't have access to Vitals}
+{Assets/RoleIcons/TimeLord.png}
+{Town Of Us Syzyfowy}
+{crewwhite}
+
+Options:
+
+{Revive during rewind}
+{Whether players killed in the rewind window are revived}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Rewind duration}
+{How many seconds are rewound}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=false, min value=1s, max value=10s, defaul value=3s}
+
+{Rewind cooldown}
+{Change rewind cooldown}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Max number of rewinds}
+{How many times timelord can rewind per game}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=5}
+
+{Can use vitals}
+{Whether timelord has access to the vitals panel}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Has second ability}
+{Whether timelord has a time stop second ability}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Time stop cooldown}
+{Change time stop cooldown}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Time stop duration}
+{How long the time stop lasts}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Both abilities cooldowns are linked together}
+{Whether rewind and time stop share the same cooldown}
+{Assets/CrewButtons/TimeLord-Rewind.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,23 @@
+{Survivor}
+{Survivor must survive for the entire game in order to win alongside whichever team wins the game. They are able to protect themselves with a temporary safeguard vest}
+{Assets/RoleIcons/Survivor.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Vest cooldown}
+{Change vest cooldown}
+{Assets/NeuButtons/Survivor-Vest.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Vest duration}
+{How long the vest protection lasts}
+{Assets/NeuButtons/Survivor-Vest.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Max number of vests}
+{How many vests survivor has per game}
+{Assets/NeuButtons/Survivor-Vest.png}
+{settingvalue: is true/false=false, min value=1, max value=20, defaul value=10}
+

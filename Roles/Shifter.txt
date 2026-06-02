@@ -1,0 +1,33 @@
+{Shifter}
+{Steal someone's role}
+{Assets/RoleIcons/Shifter.png}
+{Town Of Us Polus.GG}
+{neutralwhite}
+
+Options:
+
+{Shift cooldown}
+{Change shift cooldown}
+{Assets/NeuButtons/Shifter-Shift.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Stealing impostor role result}
+{What happens when shifter steals an impostor role}
+{Assets/NeuButtons/Shifter-Shift.png}
+{settingvalue: is true/false=false, min value=Nothing, max value=Die, defaul value=Nothing}
+
+{Stealing neutral benign role result}
+{What happens when shifter steals a neutral benign role}
+{Assets/NeuButtons/Shifter-Shift.png}
+{settingvalue: is true/false=false, min value=Nothing, max value=Die, defaul value=Nothing}
+
+{Stealing neutral evil role result}
+{What happens when shifter steals a neutral evil role}
+{Assets/NeuButtons/Shifter-Shift.png}
+{settingvalue: is true/false=false, min value=Nothing, max value=Die, defaul value=Nothing}
+
+{Stealing neutral killing role result}
+{What happens when shifter steals a neutral killing role}
+{Assets/NeuButtons/Shifter-Shift.png}
+{settingvalue: is true/false=false, min value=Nothing, max value=Die, defaul value=Nothing}
+

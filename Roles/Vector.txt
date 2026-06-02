@@ -1,0 +1,38 @@
+{Vector}
+{Vector infects another player, once infected it can detonate that same player after certain amount of time}
+{Assets/RoleIcons/Vector.png}
+{Challenger}
+{impred}
+
+Options:
+
+{Infect cooldown}
+{Change infect cooldown}
+{Assets/ImpButtons/Vector-Infect.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Cooldown to kill infected player}
+{How long before vector can detonate the infected player}
+{Assets/ImpButtons/Vector-Detonate.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+
+{Infected player knows he is contaminated}
+{Whether the infected player is notified of their infection}
+{Assets/ImpButtons/Vector-Infect.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Knows after delay}
+{Whether the infected player is notified after a delay}
+{Assets/ImpButtons/Vector-Infect.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Knows after delay duration}
+{How long the delay is before infected player is notified}
+{Assets/ImpButtons/Vector-Infect.png}
+{settingvalue: is true/false=false, min value=1s, max value=20s, defaul value=5s}
+
+{Vector can vent}
+{Allow vector to use vents}
+{Assets/ImpButtons/Vector-Infect.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

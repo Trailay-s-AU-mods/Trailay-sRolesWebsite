@@ -1,0 +1,48 @@
+{Tyran}
+{You are Tyran. Each kill strengthens your control over the ship}
+{Assets/RoleIcons/Tyran.png}
+{NewMod}
+{neutralwhite}
+
+Options:
+
+{Fear pulse radius}
+{How large the fear pulse area is}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=1x, max value=15x, defaul value=5x}
+
+{Fear pulse duration}
+{How long the fear pulse slows players}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=6s}
+
+{Fear pulse speed reduction}
+{How much player speed is reduced by the fear pulse}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=5%, max value=80%, defaul value=20%}
+
+{Dome radius}
+{How large the dome area is}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Dome duration}
+{How long the dome lasts}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=8s}
+
+{Witness range}
+{How close a player must be to witness tyran kill}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Witness freeze duration}
+{How long witnesses are frozen after seeing a kill}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=1s, max value=10s, defaul value=3s}
+
+{Witness arm window}
+{How long the witness freeze window is active after a kill}
+{Assets/RoleIcons/Tyran.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=8s}
+

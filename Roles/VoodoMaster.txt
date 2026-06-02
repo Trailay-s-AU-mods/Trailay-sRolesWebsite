@@ -1,0 +1,28 @@
+{Voodoo Master}
+{Voodoo Master may choose to stitch a player's eyes closed, hindering their information. The next time that player uses their ability or kills, they will gain no information except that they were Blinded}
+{Assets/RoleIcons/VoodooMaster.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Stitch cooldown}
+{Change stitch cooldown}
+{Assets/ImpButtons/VoodooMaster-Stitch.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=35s}
+
+{Can blind a player two rounds in a row}
+{Allow voodoo master to target the same player in consecutive rounds}
+{Assets/ImpButtons/VoodooMaster-Stitch.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Blind also lowers vision for a set amount of time}
+{Whether the blind also reduces the target's vision}
+{Assets/ImpButtons/VoodooMaster-Stitch.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Blind duration}
+{How long the vision reduction lasts}
+{Assets/ImpButtons/VoodooMaster-Stitch.png}
+{settingvalue: is true/false=false, min value=3s, max value=30s, defaul value=10s}
+

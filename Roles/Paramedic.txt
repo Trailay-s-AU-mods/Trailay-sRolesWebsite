@@ -1,0 +1,28 @@
+{Paramedic}
+{Use your revive ability to bring dead bodies back to life}
+{Assets/RoleIcons/Paramedic.png}
+{Launchpad Reloaded}
+{crewwhite}
+
+Options:
+
+{Only allow reviving in MedBay/Laboratory/Medical}
+{Whether paramedic can only revive players in medical areas}
+{Assets/CrewButtons/Paramedic-Revive.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can drag bodies}
+{Whether paramedic can drag dead bodies}
+{Assets/CrewButtons/Paramedic-Revive.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Max revives}
+{How many times paramedic can revive players}
+{Assets/CrewButtons/Paramedic-Revive.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Revive cooldown}
+{Change revive cooldown}
+{Assets/CrewButtons/Paramedic-Revive.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+

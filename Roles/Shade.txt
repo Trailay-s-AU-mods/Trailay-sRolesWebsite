@@ -1,0 +1,43 @@
+{Shade}
+{Shade is an impostor who can temporarily turn invisible leaving the evidence. Upon getting a configurable amount of kills, The Shade gains a Blind ability}
+{Assets/RoleIcons/Shade.png}
+{Stellar Roles}
+{impred}
+
+Options:
+
+{Vanish cooldown}
+{Change vanish cooldown}
+{Assets/ImpButtons/Shade-Vanish.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Vanish duration}
+{How long shade stays invisible}
+{Assets/ImpButtons/Shade-Vanish.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Evidence duration}
+{How long the evidence stays after vanishing}
+{Assets/ImpButtons/Shade-Vanish.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=15s}
+
+{Kills to gain blind}
+{How many kills are needed to gain the blind ability}
+{Assets/ImpButtons/Shade-Blind.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Blind range}
+{How large the blind radius is}
+{Assets/ImpButtons/Shade-Blind.png}
+{settingvalue: is true/false=false, min value=0.25x, max value=2.5x, defaul value=0.75x}
+
+{Blind cooldown}
+{Change blind cooldown}
+{Assets/ImpButtons/Shade-Blind.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Blind duration}
+{How long blind lasts}
+{Assets/ImpButtons/Shade-Blind.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+

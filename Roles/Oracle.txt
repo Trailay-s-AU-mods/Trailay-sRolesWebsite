@@ -1,0 +1,33 @@
+{Oracle}
+{Oracle can use their Confess ability on another player to find out if they are evil. During a meeting, the Oracle will be given the names of three players (including the chosen Confessor) as potential Evils. If the Oracle dies before the meeting, the chosen Confessor will reveal their faction to everybody during the meeting}
+{Assets/RoleIcons/Oracle.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Confess cooldown}
+{Change confess cooldown}
+{Assets/CrewButtons/Oracle-Confess.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Reveal accuracy}
+{How accurate the oracle's reveal is}
+{Assets/CrewButtons/Oracle-Confess.png}
+{settingvalue: is true/false=false, min value=10%, max value=100%, defaul value=80%}
+
+{Neutral benign show red (evil)}
+{Whether neutral benign roles are revealed as evil}
+{Assets/CrewButtons/Oracle-Confess.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutral evil show red (evil)}
+{Whether neutral evil roles are revealed as evil}
+{Assets/CrewButtons/Oracle-Confess.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Neutral killing show red (evil)}
+{Whether neutral killing roles are revealed as evil}
+{Assets/CrewButtons/Oracle-Confess.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

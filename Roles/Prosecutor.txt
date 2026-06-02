@@ -1,0 +1,18 @@
+{Prosecutor}
+{Prosecutor can exile a player during a meeting, casting their vote to overpower all others. They can also see who voted for who, even if voting is anonymous}
+{Assets/RoleIcons/Prosecutor.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Prosecutor dies when they exile a crewmate}
+{Whether prosecutor is punished with death for exiling an innocent crewmate}
+{Assets/RoleIcons/Prosecutor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Max prosecutions}
+{How many times prosecutor can forcefully exile a player}
+{Assets/RoleIcons/Prosecutor.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=2}
+

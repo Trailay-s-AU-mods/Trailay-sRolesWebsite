@@ -1,0 +1,38 @@
+{Trapper}
+{The Trapper can place traps around the map to learn the roles of other players. Trapper will see a list of the roles in the next meeting, in a randomised order}
+{Assets/RoleIcons/Trapper.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Trap cooldown}
+{Change trap placement cooldown}
+{Assets/CrewButtons/Trapper-Trap.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+
+{Min amount of time in trap to register}
+{How long a player must stay in a trap for it to register their role}
+{Assets/CrewButtons/Trapper-Trap.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=5s, defaul value=1s}
+
+{Max number of traps}
+{Maximum number of traps that can be placed}
+{Assets/CrewButtons/Trapper-Trap.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Trap size}
+{How large each trap is}
+{Assets/CrewButtons/Trapper-Trap.png}
+{settingvalue: is true/false=false, min value=0.1x, max value=1.0x, defaul value=0.25x}
+
+{Traps are removed after each round}
+{Whether all traps reset at the start of each round}
+{Assets/CrewButtons/Trapper-Trap.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Minimum number of roles required to trigger trap}
+{How many roles must be registered before the trap triggers}
+{Assets/CrewButtons/Trapper-Trap.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+

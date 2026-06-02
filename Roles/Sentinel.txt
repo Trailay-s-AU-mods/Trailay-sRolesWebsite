@@ -1,0 +1,23 @@
+{Sentinel}
+{Place a beacon in the room. You will see a flash when someone enters that room. During meetings you will see who passed through each beacon's room}
+{Assets/RoleIcons/Sentinel.png}
+{Divani Mods}
+{crewwhite}
+
+Options:
+
+{Max beacons}
+{Maximum number of beacons sentinel can place}
+{Assets/CrewButtons/Sentinel-Beacon.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Place cooldown}
+{Change beacon placement cooldown}
+{Assets/CrewButtons/Sentinel-Beacon.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=20s}
+
+{Show room activity in chat}
+{Whether beacon activity is also shown in the chat log}
+{Assets/CrewButtons/Sentinel-Beacon.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

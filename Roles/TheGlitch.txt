@@ -1,0 +1,38 @@
+{The Glitch}
+{The Glitch wins by being the last killer alive. They can Mimic into another player, temporarily taking on their appearance, or they can Hack a player, temporarily preventing them from using any abilities}
+{Assets/RoleIcons/Glitch.png}
+{Town Of Us Mira}
+{neutralwhite}
+
+Options:
+
+{Kill cooldown}
+{Change kill cooldown}
+{Assets/NeuButtons/Glitch-Kill.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Mimic cooldown}
+{Change mimic cooldown}
+{Assets/NeuButtons/Glitch-Mimic.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Mimic duration}
+{How long the mimic disguise lasts}
+{Assets/NeuButtons/Glitch-Mimic.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Hack cooldown}
+{Change hack cooldown}
+{Assets/NeuButtons/Glitch-Hack.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Hack duration}
+{How long the hack disables a player's abilities}
+{Assets/NeuButtons/Glitch-Hack.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Glitch can vent}
+{Allow glitch to use vents}
+{Assets/NeuButtons/Glitch-Vent.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

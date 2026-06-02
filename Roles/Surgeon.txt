@@ -1,0 +1,33 @@
+{Surgeon}
+{Surgeon is an Impostor role with two special abilities. Poison the crew and dissect their bodies. He can inject a player with a poison. The poisoned player is unaware of what has occurred and will die after a set amount of time. Surgeon also has the ability to dissect dead bodies. This will leave a bone in place of the body, making it impossible to report or use other body abilities}
+{Assets/RoleIcons/Surgeon.png}
+{Launchpad Reloaded}
+{impred}
+
+Options:
+
+{Inject cooldown}
+{Change inject cooldown}
+{Assets/ImpButtons/Surgeon-Inject.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Inject uses}
+{How many times surgeon can inject players}
+{Assets/ImpButtons/Surgeon-Inject.png}
+{settingvalue: is true/false=false, min value=1, max value=∞, defaul value=∞}
+
+{Dissect cooldown}
+{Change dissect cooldown}
+{Assets/ImpButtons/Surgeon-Dissect.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Dissect uses}
+{How many times surgeon can dissect bodies}
+{Assets/ImpButtons/Surgeon-Dissect.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Poison delay}
+{How long before the poison kills the infected player}
+{Assets/ImpButtons/Surgeon-Inject.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+

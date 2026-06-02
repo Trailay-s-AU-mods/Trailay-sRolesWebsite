@@ -1,0 +1,28 @@
+{Teleporter}
+{Zoom out and teleport across the map!}
+{Assets/RoleIcons/Teleporter.png}
+{Town Of Re-Worked Launchpad}
+{crewwhite}
+
+Options:
+
+{Teleport cooldown}
+{Change teleport cooldown}
+{Assets/CrewButtons/Teleporter-Teleport.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+
+{Teleport duration}
+{How long the teleport zoom lasts}
+{Assets/CrewButtons/Teleporter-Teleport.png}
+{settingvalue: is true/false=false, min value=5s, max value=30s, defaul value=10s}
+
+{Zoom distance}
+{How far the camera zooms out during teleport}
+{Assets/CrewButtons/Teleporter-Teleport.png}
+{settingvalue: is true/false=false, min value=2, max value=15, defaul value=6}
+
+{Max teleport uses}
+{How many times teleporter can teleport per game}
+{Assets/CrewButtons/Teleporter-Teleport.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+

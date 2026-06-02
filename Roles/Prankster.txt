@@ -1,0 +1,18 @@
+{Prankster}
+{Prankster can place false corpses. Any player who reports one of these fakes will face a pre-set consequence, randomized as either a gag or an instant kill}
+{Assets/RoleIcons/Prankster.png}
+{NewMod}
+{neutralwhite}
+
+Options:
+
+{Prank cooldown}
+{Change prank placement cooldown}
+{Assets/NeuButtons/Prankster-Place.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Prank max uses}
+{Maximum number of fake corpses prankster can place}
+{Assets/NeuButtons/Prankster-Place.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+

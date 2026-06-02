@@ -1,0 +1,18 @@
+{rolename}
+{roledescription}
+{rolelogo}
+{modcredits}
+{color}
+
+Options:
+
+{settingname}
+{settingdesc}
+{settingasset}
+{settingvalue: is true/false, min value, max value, defaul value}
+
+{settingname}
+{settingdesc}
+{settingasset}
+{settingvalue: is true/false, min value, max value, defaul value}
+

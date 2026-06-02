@@ -1,0 +1,23 @@
+{Vulture}
+{Eat bodies to win!}
+{Assets/RoleIcons/Vulture.png}
+{Stellar Roles}
+{neutralwhite}
+
+Options:
+
+{Eat cooldown}
+{Change eat cooldown}
+{Assets/NeuButtons/Vulture-Eat.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Bodies to win}
+{How many bodies vulture must eat to win}
+{Assets/NeuButtons/Vulture-Eat.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Arrows to bodies}
+{Whether vulture has arrows pointing to dead bodies}
+{Assets/NeuButtons/Vulture-Eat.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,27 @@
+{Snitch}
+{The Snitch must race to complete their tasks in order to reveal the Impostors}
+{Assets/RoleIcons/Snitch.png}
+{Town Of Us:Mira}
+{rgb(212, 176, 56)}
+
+Options:
+
+{Tasks remaining when revealed}
+{This setting determines on how many tasks left snitch is revealed to the killers}
+{Assets/RoleIcons/Snitch.png}
+{settingvalue: is true/false=false, min value=1, max value=3, defaul value=1}
+
+{Reveals neutral killers}
+{This setting determines if snitch reveals neutral killers upon finishing his tasks}
+{Assets/Neutral.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Snitch see liar}
+{This setting determines if snitch sees liar as an impostor}
+{Assets/RoleIcons/Liar.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=ON}
+
+{Snitch sees impostors in meeting}
+{This setting determines if snitch sees impostors (and neutrals) during meeting}
+{Assets/Impostor.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=ON}

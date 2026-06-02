@@ -1,0 +1,48 @@
+{Vigilante}
+{Vigilante can guess evil roles during meetings to kill evil players. If they guess correctly, the evil player will die. If they guess incorrectly and have no safe shots, the Vigilante will die}
+{Assets/RoleIcons/Vigilante.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Number of guesses}
+{How many guesses vigilante can make per game}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Can guess more than once per meeting}
+{Whether vigilante can guess multiple players in a single meeting}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can guess neutral evil roles}
+{Whether neutral evil roles are valid guess targets}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can guess neutral benign roles}
+{Whether neutral benign roles are valid guess targets}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can guess neutral killing roles}
+{Whether neutral killing roles are valid guess targets}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can guess neutral outlier roles}
+{Whether neutral outlier roles are valid guess targets}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can guess alliances}
+{Whether vigilante can guess alliances instead of specific roles}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Safe shots available}
+{How many incorrect guesses vigilante survives before dying}
+{Assets/RoleIcons/Vigilante.png}
+{settingvalue: is true/false=false, min value=0, max value=10, defaul value=3}
+

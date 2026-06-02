@@ -1,0 +1,38 @@
+{Wraith Caller}
+{Summons NPC Wraiths that pass through walls to kill. Remote control and misdirection specialist}
+{Assets/RoleIcons/WraithCaller.png}
+{NewMod}
+{neutralwhite}
+
+Options:
+
+{Wraith summon cooldown}
+{Change wraith summon cooldown}
+{Assets/NeuButtons/WraithCaller-Call.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=35s}
+
+{Max wraith summons}
+{Maximum number of wraiths that can be summoned}
+{Assets/NeuButtons/WraithCaller-Call.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Required NPCs to send}
+{How many wraiths must be summoned before sending them}
+{Assets/NeuButtons/WraithCaller-Call.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=2}
+
+{NPC speed}
+{How fast wraiths move}
+{Assets/NeuButtons/WraithCaller-Call.png}
+{settingvalue: is true/false=false, min value=0.5, max value=3.0, defaul value=1}
+
+{Show summon warning}
+{Whether players are warned when a wraith is summoned near them}
+{Assets/NeuButtons/WraithCaller-Call.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Switch cam to NPC on target send}
+{Whether the view switches to the wraith's perspective when sent}
+{Assets/NeuButtons/WraithCaller-Call.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

@@ -1,0 +1,23 @@
+{Swooper}
+{Swooper can temporarily turn invisible to avoid being seen}
+{Assets/RoleIcons/Swooper.png}
+{Town Of Us Mira}
+{impred}
+
+Options:
+
+{Swoop cooldown}
+{Change swoop cooldown}
+{Assets/ImpButtons/Swooper-Swoop.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Swoop duration}
+{How long swooper stays invisible}
+{Assets/ImpButtons/Swooper-Swoop.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Swooper can vent}
+{Allow swooper to use vents}
+{Assets/ImpButtons/Swooper-Swoop.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

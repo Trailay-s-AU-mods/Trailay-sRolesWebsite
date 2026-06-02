@@ -1,0 +1,38 @@
+{Warlock}
+{Warlock is an Impostor, that can curse another player (the cursed player doesn't get notified). If the cursed person stands next to another player, the Warlock is able to kill that player (no matter how far away they are). Performing a kill with the help of a cursed player, will lift the curse and it will result in the Warlock being unable to move for a set amount of time}
+{Assets/RoleIcons/Warlock.png}
+{The Other Roles}
+{impred}
+
+Options:
+
+{Kill cooldown}
+{Change kill cooldown}
+{Assets/ImpButtons/Warlock-Kill.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Curse cooldown}
+{Change curse cooldown}
+{Assets/ImpButtons/Warlock-Curse.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=35s}
+
+{Can kill impostors}
+{Allow warlock to curse and kill impostors}
+{Assets/ImpButtons/Warlock-Curse.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Can kill themselves}
+{Allow warlock to accidentally kill themselves via curse}
+{Assets/ImpButtons/Warlock-Curse.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Freeze after killing via cursed player}
+{Whether warlock freezes after performing a curse kill}
+{Assets/ImpButtons/Warlock-Curse.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Freeze duration}
+{How long warlock is frozen after a curse kill}
+{Assets/ImpButtons/Warlock-Curse.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=4s}
+

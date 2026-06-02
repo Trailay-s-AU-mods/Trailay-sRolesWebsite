@@ -1,0 +1,23 @@
+{Sealer}
+{Sealer can seal vents closed, making the vent unusable. Players will not be able to enter, exit, or interact with the vent}
+{Assets/RoleIcons/Sealer.png}
+{Launchpad Reloaded}
+{crewwhite}
+
+Options:
+
+{Seal vent cooldown}
+{Change seal vent cooldown}
+{Assets/CrewButtons/Sealer-Seal.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=35s}
+
+{Seal vent uses}
+{How many vents sealer can seal per game}
+{Assets/CrewButtons/Sealer-Seal.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Seal reveals bodies}
+{Whether sealing a vent reveals any nearby dead bodies}
+{Assets/CrewButtons/Sealer-Seal.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

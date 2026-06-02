@@ -1,0 +1,32 @@
+{Sonar}
+{Track suspicious players to see where they go}
+{Assets/RoleIcons/Sonar.png}
+{Town Of Us:Mira}
+{rgb(0, 153, 0)}
+
+Options:
+
+{Track cooldown}
+{This setting determines how long the cooldown is}
+{Assets/CrewButtons/Sonar-Track.png}
+{settingvalue: is true/false=false, min value=15s, max value=35s, defaul value=20s}
+
+{Initial number of tracks}
+{This setting determines how many tracks sonar has}
+{Assets/CrewButtons/Sonar-Track.png}
+{settingvalue: is true/false=false, min value=3, max value=6, defaul value=5}
+
+{Arrow update interval}
+{This setting determines how often arrows update}
+{Assets/Arrow.png}
+{settingvalue: is true/false=false, min value=1s, max value=5s, defaul value=3s}
+
+{Trackers make sound on death}
+{This setting determines if tracked players make sound (noisemaker alarm) when killed}
+{Assets/Player.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Trackers reset each round}
+{This setting determines if tracked players reset each round}
+{Assets/Arrow.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}

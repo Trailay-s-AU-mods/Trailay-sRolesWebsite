@@ -1,0 +1,6 @@
+{Troll}
+{Finish your tasks and then die to win}
+{Assets/RoleIcons/Troll.png}
+{Troll Mod}
+{neutralwhite}
+

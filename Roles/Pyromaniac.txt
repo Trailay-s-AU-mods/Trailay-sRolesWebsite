@@ -1,0 +1,23 @@
+{Pyromaniac}
+{Pyromaniac is a role who can choose to either Douse or kill a player. Douse and kill trigger half of the other button's cooldown when used}
+{Assets/RoleIcons/Pyromaniac.png}
+{Stellar Roles}
+{neutralwhite}
+
+Options:
+
+{Douse cooldown}
+{Change douse cooldown}
+{Assets/NeuButtons/Pyromaniac-Douse.png}
+{settingvalue: is true/false=false, min value=10s, max value=60s, defaul value=30s}
+
+{Douse duration}
+{How long it takes to douse a player}
+{Assets/NeuButtons/Pyromaniac-Douse.png}
+{settingvalue: is true/false=false, min value=0.5s, max value=10s, defaul value=2s}
+
+{Doused kill cooldown}
+{Kill cooldown when killing a doused player}
+{Assets/NeuButtons/Pyromaniac-Kill.png}
+{settingvalue: is true/false=false, min value=3s, max value=30s, defaul value=10s}
+

@@ -1,0 +1,18 @@
+{Reaper}
+{Reaper can collect souls from dead bodies}
+{Assets/RoleIcons/Reaper.png}
+{Launchpad Reloaded}
+{neutralwhite}
+
+Options:
+
+{Collections to win}
+{How many souls reaper must collect to win}
+{Assets/NeuButtons/Reaper-ColectSoul.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=3}
+
+{Collect cooldown}
+{Change soul collection cooldown}
+{Assets/NeuButtons/Reaper-ColectSoul.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+

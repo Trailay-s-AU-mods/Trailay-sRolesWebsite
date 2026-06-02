@@ -1,0 +1,18 @@
+{Trainee}
+{Trainee has two phases. During first phase trainee has to vote out players or finish tasks to unlock their second phase. When second phase is unlocked, after the meeting he will change to a real Neutral Killer. Trainee cannot be voted out and can teleport to the nearest player}
+{Assets/RoleIcons/Trainee.png}
+{TOHO Suggestion}
+{neutralwhite}
+
+Options:
+
+{Kill cooldown}
+{Change kill cooldown}
+{Assets/NeuButtons/Trainee-Teleport.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=20s}
+
+{Players voted out to unlock second phase}
+{How many players must be voted out before trainee unlocks phase 2}
+{Assets/NeuButtons/Trainee-Teleport.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+

@@ -1,0 +1,43 @@
+{PulseBlade}
+{Dash-kill specialist from the Apex faction. Kills with a quick dash and the body briefly vanishes. Cannot sabotage or vent}
+{Assets/RoleIcons/PulseBlade.png}
+{NewMod}
+{impred}
+
+Options:
+
+{Strike cooldown}
+{Change strike cooldown}
+{Assets/ImpButtons/PulseBlade-Strike.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Max uses}
+{Maximum number of strikes per game}
+{Assets/ImpButtons/PulseBlade-Strike.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=3}
+
+{Strike range}
+{How far the dash strike reaches}
+{Assets/ImpButtons/PulseBlade-Strike.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=4}
+
+{Dash speed}
+{How fast the dash is}
+{Assets/ImpButtons/PulseBlade-Strike.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=5}
+
+{Hide body duration}
+{How long the body stays hidden after a strike}
+{Assets/ImpButtons/PulseBlade-Strike.png}
+{settingvalue: is true/false=false, min value=1s, max value=20s, defaul value=5s}
+
+{Required strikes to win}
+{How many strikes are needed to win}
+{Assets/ImpButtons/PulseBlade-Strike.png}
+{settingvalue: is true/false=false, min value=1, max value=5, defaul value=2}
+
+{Players remaining threshold}
+{Minimum players remaining for win condition to apply}
+{Assets/ImpButtons/PulseBlade-Strike.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=4}
+

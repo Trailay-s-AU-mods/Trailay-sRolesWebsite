@@ -1,0 +1,13 @@
+{Shaman}
+{As Shaman you can select voodoo doll once every round. All the interactions with you using kill button will be deflected to the voodoo doll and the voodoo doll will be destroyed}
+{Assets/RoleIcons/Shaman.png}
+{Endless Host Roles}
+{neutralwhite}
+
+Options:
+
+{Voodoo cooldown}
+{Change voodoo doll selection cooldown}
+{Assets/NeuButtons/Shaman-VoodoDoll.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+

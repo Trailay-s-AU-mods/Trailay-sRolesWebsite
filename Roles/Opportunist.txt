@@ -1,0 +1,13 @@
+{Opportunist}
+{After you vote a target out, every vote cast on that same target during the meeting counts towards your goal. Reach required number of collected votes to leave in victory!}
+{Assets/RoleIcons/Opportunist.png}
+{Divani Mods}
+{neutralwhite}
+
+Options:
+
+{Required votes to win}
+{How many total collected votes are needed to win}
+{Assets/RoleIcons/Opportunist.png}
+{settingvalue: is true/false=false, min value=3, max value=20, defaul value=10}
+

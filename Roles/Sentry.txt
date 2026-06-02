@@ -1,0 +1,48 @@
+{Sentry}
+{Place cameras that appear in Security}
+{Assets/RoleIcons/Sentry.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Placement cooldown}
+{Change camera placement cooldown}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=false, min value=15s, max value=60s, defaul value=30s}
+
+{Can move while placing camera}
+{Whether sentry can move while deploying a camera}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Portable cameras battery}
+{How long portable cameras last before running out of battery}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=false, min value=30s, max value=180s, defaul value=90s}
+
+{Initial cameras}
+{How many cameras sentry starts with}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=false, min value=0, max value=5, defaul value=2}
+
+{Rounds cameras last}
+{How many rounds a deployed camera stays active}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Tasks required per camera}
+{How many tasks must be completed to earn an extra camera}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=2}
+
+{Max cameras placed at once}
+{Maximum number of cameras sentry can have active simultaneously}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=false, min value=1, max value=10, defaul value=4}
+
+{Blind spots}
+{Whether cameras have blind spots that players can hide in}
+{Assets/CrewButtons/Sentry-Deploy.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+

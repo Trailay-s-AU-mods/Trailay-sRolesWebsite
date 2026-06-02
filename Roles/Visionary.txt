@@ -1,0 +1,23 @@
+{Visionary}
+{Takes in-game screenshots to catch impostors in the act}
+{Assets/RoleIcons/Visionary.png}
+{NewMod}
+{crewwhite}
+
+Options:
+
+{Screenshot cooldown}
+{Change screenshot cooldown}
+{Assets/CrewButtons/Visionary-Camera.png}
+{settingvalue: is true/false=false, min value=5s, max value=45s, defaul value=15s}
+
+{Max screenshots}
+{Maximum number of screenshots visionary can take}
+{Assets/CrewButtons/Visionary-Camera.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Max display duration}
+{How long a screenshot is displayed}
+{Assets/CrewButtons/Visionary-Camera.png}
+{settingvalue: is true/false=false, min value=1s, max value=15s, defaul value=5s}
+

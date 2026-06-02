@@ -1,0 +1,33 @@
+{Veteran}
+{Veteran can go on alert and will kill anyone who interacts with them, except for Pestilence and shielded players, who will ignore the attack}
+{Assets/RoleIcons/Veteran.png}
+{Town Of Us Mira}
+{crewwhite}
+
+Options:
+
+{Alert cooldown}
+{Change alert cooldown}
+{Assets/CrewButtons/Veteran-Alert.png}
+{settingvalue: is true/false=false, min value=10s, max value=45s, defaul value=25s}
+
+{Alert duration}
+{How long veteran stays on alert}
+{Assets/CrewButtons/Veteran-Alert.png}
+{settingvalue: is true/false=false, min value=3s, max value=20s, defaul value=10s}
+
+{Max number of alerts}
+{How many times veteran can go on alert per game}
+{Assets/CrewButtons/Veteran-Alert.png}
+{settingvalue: is true/false=false, min value=1, max value=15, defaul value=5}
+
+{Can be killed on alert}
+{Whether veteran can be killed while on alert}
+{Assets/CrewButtons/Veteran-Alert.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
+{Get more alerts from completing tasks}
+{Whether completing tasks grants additional alerts}
+{Assets/CrewButtons/Veteran-Alert.png}
+{settingvalue: is true/false=true, min value=OFF, max value=ON, defaul value=OFF}
+
